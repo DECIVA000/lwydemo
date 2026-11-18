@@ -1,0 +1,40 @@
+{
+  "Left coronary artery": {
+    "trim_index": 14,
+    "source_origin": [
+      0.0217335,
+      1.330506,
+      0.0214416
+    ],
+    "outer_radius_m": 0.002,
+    "join": [
+      0.0294562,
+      1.3280059,
+      0.0227484
+    ]
+  },
+  "Right coronary artery": {
+    "trim_index": 16,
+    "source_origin": [
+      0.0045533,
+      1.3317839,
+      0.0408342
+    ],
+    "outer_radius_m": 0.002,
+    "join": [
+      0.0077815,
+      1.3295121,
+      0.0529006
+    ]
+  },
+  "root": {
+    "vertices": 116982,
+    "faces": 233949,
+    "non_two_face_edges": 0,
+    "wall_thickness_m": 0.0008,
+    "coronary_wall_thickness_m": 0.00035,
+    "method": "source sweeps; three authored sinus bulges; union outer tubes; subtract union lumina; top and bottom lumina open",
+    "license": "CC BY-SA 4.0",
+    "not_patient_derived": true
+  }
+}

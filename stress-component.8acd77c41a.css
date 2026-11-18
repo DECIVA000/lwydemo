@@ -1,0 +1,76 @@
+#stress-education-dashboard{--se-bg:#f8f7f3;--se-ink:#173338;--se-muted:#687c7d;--se-teal:#39746d;--se-gold:#e3bf87;--se-line:#dcded6;--se-sage:#eef1eb;--se-paper:#fffefa;--se-red:#b75c5e;--se-gold-ink:#865e31;box-sizing:border-box;width:100%;background:var(--se-bg);color:var(--se-ink);font-family:"Segoe UI","Microsoft JhengHei",sans-serif;font-size:14px;line-height:1.65;color-scheme:light;overflow:hidden}
+    #stress-education-dashboard *,#stress-education-dashboard *:before,#stress-education-dashboard *:after{box-sizing:border-box}
+    #stress-education-dashboard button{font:inherit;color:inherit;touch-action:manipulation;-webkit-tap-highlight-color:transparent}
+    #stress-education-dashboard [hidden]{display:none!important}
+    #stress-education-dashboard .se-wrap{max-width:1060px;margin:auto;padding:22px 32px 19px}
+    #stress-education-dashboard .se-brandbar{display:flex;align-items:center;gap:10px;padding-bottom:16px;border-bottom:1px solid var(--se-line)}
+    #stress-education-dashboard .se-brand-mark{display:inline-grid;place-items:center;width:28px;height:28px;border:1px solid #cbd8ce;border-radius:50%;color:var(--se-teal);font-size:23px;font-weight:400;line-height:1}
+    #stress-education-dashboard .se-brand{font-size:14px;font-weight:600;letter-spacing:.055em}
+    #stress-education-dashboard .se-brand-note{font-size:11px;color:var(--se-muted);margin-left:auto;letter-spacing:.08em;padding-right:72px}
+    #stress-education-dashboard .se-heading{padding:22px 0 18px}
+    #stress-education-dashboard .se-eyebrow{display:flex;align-items:center;gap:10px;color:var(--se-teal);font-size:11px;font-weight:600;letter-spacing:.18em;margin:0 0 8px}
+    #stress-education-dashboard .se-eyebrow:before{content:"";width:22px;height:1px;background:var(--se-teal)}
+    #stress-education-dashboard h1{font-size:clamp(24px,3.2vw,32px);line-height:1.45;font-weight:600;letter-spacing:.035em;margin:0 0 6px;color:var(--se-ink)}
+    #stress-education-dashboard .se-intro{margin:0;color:var(--se-muted);font-size:14px}
+    #stress-education-dashboard .se-exams{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:12px;margin-bottom:10px}
+    #stress-education-dashboard .se-exam{display:block;position:relative;width:100%;text-align:left;background:transparent;border:1px solid var(--se-line);border-radius:7px;padding:12px 17px;transition:background .2s,border-color .2s;min-width:0;min-height:53px}
+    #stress-education-dashboard .se-exam[aria-pressed="true"]{background:#e8eee5;border-color:#b7cabd}
+    #stress-education-dashboard .se-exam:hover{background:#eef1e9}
+    #stress-education-dashboard .se-exam-top{display:flex;align-items:center;gap:11px}
+    #stress-education-dashboard .se-exam-number{font:20px/1 Georgia,serif;color:#8b9e8c;font-weight:400}
+    #stress-education-dashboard .se-exam[aria-pressed="true"] .se-exam-number{color:var(--se-teal)}
+    #stress-education-dashboard .se-exam-name{font-size:16px;font-weight:600;line-height:1.5;min-width:0}
+    #stress-education-dashboard .se-exam-name span{display:inline-block}
+    #stress-education-dashboard .se-selection{display:inline-grid;place-items:center;margin-left:auto;width:17px;height:17px;border:1px solid #c4cfc4;border-radius:50%;flex:none;color:var(--se-teal);font-size:11px;line-height:1}
+    #stress-education-dashboard .se-exam[aria-pressed="true"] .se-selection:after{content:"";width:7px;height:7px;border-radius:50%;background:var(--se-teal)}
+    #stress-education-dashboard .se-exam-details{padding:15px 17px 12px;margin-bottom:19px;background:var(--se-paper);border:1px solid var(--se-line);border-radius:7px}
+    #stress-education-dashboard .se-details-main{display:grid;grid-template-columns:126px minmax(0,1fr);align-items:start;gap:20px}
+    #stress-education-dashboard .se-detection{padding:2px 0 0;min-width:0}
+    #stress-education-dashboard .se-detection-label{display:block;font-size:11px;color:var(--se-muted);line-height:1.8}
+    #stress-education-dashboard .se-detection-value{display:flex;align-items:baseline;gap:5px;color:var(--se-teal);font-size:12px;line-height:1.35;margin-top:6px;white-space:nowrap}
+    #stress-education-dashboard .se-detection-value strong{font:32px/1.15 Georgia,serif;font-weight:400;letter-spacing:.01em}
+    #stress-education-dashboard .se-facts{margin:0;display:grid;gap:7px;min-width:0}
+    #stress-education-dashboard .se-fact{display:grid;grid-template-columns:3.3em minmax(0,1fr);gap:8px;font-size:12px;line-height:1.75;min-width:0}
+    #stress-education-dashboard .se-fact dt{font-weight:600;color:var(--se-teal);margin:0}
+    #stress-education-dashboard .se-fact dd{margin:0;color:#526d68;overflow-wrap:anywhere}
+    #stress-education-dashboard .se-research-note{margin:11px 0 0;padding-top:9px;border-top:1px solid #e7e9e1;color:var(--se-muted);font-size:11px;line-height:1.75}
+    #stress-education-dashboard .se-panel{background:var(--se-paper);border:1px solid #dde2d8;border-radius:9px;box-shadow:0 6px 22px #17333803}
+    #stress-education-dashboard .se-controls{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;padding:17px 22px 10px}
+    #stress-education-dashboard .se-diagram-heading{margin:0;font-size:16px;font-weight:600;letter-spacing:.04em}
+    #stress-education-dashboard .se-diagram-sub{font-size:11px;color:var(--se-muted);margin:1px 0 0}
+    #stress-education-dashboard .se-control-actions{display:flex;align-items:center;gap:10px}
+    #stress-education-dashboard .se-state-switch{display:flex;align-items:center;padding:3px;border:1px solid #d8dfd4;border-radius:6px;background:#f5f6f0}
+    #stress-education-dashboard .se-state-switch button{border:0;border-radius:4px;background:transparent;padding:7px 14px;font-size:12px;min-height:35px;white-space:nowrap}
+    #stress-education-dashboard .se-state-switch button[aria-pressed="true"]{background:var(--se-ink);color:#fffefa}
+    #stress-education-dashboard .se-motion{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-height:42px;border:0;background:transparent;font-size:12px;color:#617a72;padding:8px 4px;white-space:nowrap}
+    #stress-education-dashboard .se-motion-symbol{font-size:12px;width:14px;text-align:center}
+    #stress-education-dashboard .se-diagram-area{position:relative;margin:0 18px}
+    #stress-education-dashboard .se-diagram{display:block;width:100%;height:282px;overflow:visible}
+    #stress-education-dashboard .se-diagram text{font-family:"Segoe UI","Microsoft JhengHei",sans-serif}
+    #stress-education-dashboard .se-legends{display:flex;align-items:center;gap:18px;flex-wrap:wrap;padding:0 22px 14px;color:var(--se-muted);font-size:11px}
+    #stress-education-dashboard .se-legend{display:inline-flex;align-items:center;gap:6px}
+    #stress-education-dashboard .se-rbc-key{display:inline-block;width:12px;height:7px;border-radius:50%;background:var(--se-red);box-shadow:inset 0 0 0 2px #ce8b82}
+    #stress-education-dashboard .se-plaque-key{display:inline-block;width:11px;height:8px;background:var(--se-gold);border-radius:4px}
+    #stress-education-dashboard .se-dilation-key{display:inline-block;width:13px;height:8px;border-top:2px solid #88a99b;border-bottom:2px solid #88a99b}
+    #stress-education-dashboard .se-result{display:grid;grid-template-columns:auto minmax(0,1fr);align-items:start;gap:12px;padding:15px 22px 17px;border-top:1px solid #e3e7dd;background:#f0f3ec;border-radius:0 0 9px 9px}
+    #stress-education-dashboard .se-state-label{font-size:11px;color:#587665;border:1px solid #cfdbcb;border-radius:4px;line-height:1.4;padding:5px 8px;white-space:nowrap;margin-top:1px}
+    #stress-education-dashboard .se-result[data-state="stress"] .se-state-label{background:#eee0c8;border-color:#ddc8a7;color:#765431}
+    #stress-education-dashboard .se-result h2{font-size:16px;line-height:1.6;font-weight:600;margin:0 0 2px;color:var(--se-ink)}
+    #stress-education-dashboard .se-result p{font-size:12px;color:#5e7770;line-height:1.85;margin:0}
+    #stress-education-dashboard .se-foot{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;padding-top:14px;font-size:11px;line-height:1.8;color:#7a8a81}
+    #stress-education-dashboard .se-foot p{margin:0}
+    #stress-education-dashboard .se-doctor{white-space:nowrap;letter-spacing:.025em}
+    #stress-education-dashboard .se-sr{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+    @media(max-width:660px){#stress-education-dashboard .se-wrap{padding:18px 20px}#stress-education-dashboard .se-brand-note{padding-right:58px}#stress-education-dashboard .se-exam{padding:12px 13px}#stress-education-dashboard .se-exam-name{font-size:14px}#stress-education-dashboard .se-details-main{grid-template-columns:1fr;gap:10px}#stress-education-dashboard .se-detection{display:flex;align-items:baseline;justify-content:space-between;gap:10px;padding:0 0 10px;border-bottom:1px solid #e7e9e1}#stress-education-dashboard .se-detection-value{margin:0}#stress-education-dashboard .se-detection-value strong{font-size:27px}#stress-education-dashboard .se-controls{padding:15px 16px 8px}#stress-education-dashboard .se-control-actions{gap:7px}#stress-education-dashboard .se-state-switch button{padding:7px 11px}#stress-education-dashboard .se-result{padding:14px 16px}#stress-education-dashboard .se-result h2{font-size:15px}#stress-education-dashboard .se-legends{padding:0 16px 14px;gap:11px}#stress-education-dashboard .se-diagram-area{margin:0 12px}}
+    @media(max-width:480px){#stress-education-dashboard .se-wrap{padding:16px 14px}#stress-education-dashboard .se-brandbar{padding-bottom:13px}#stress-education-dashboard .se-brand{font-size:13px}#stress-education-dashboard .se-brand-note{padding-right:0}#stress-education-dashboard .se-heading{padding:19px 0 17px}#stress-education-dashboard .se-intro{font-size:12px;line-height:1.9}#stress-education-dashboard .se-exams{gap:8px;margin-bottom:8px}#stress-education-dashboard .se-exam{padding:10px;min-height:63px}#stress-education-dashboard .se-exam-top{gap:6px}#stress-education-dashboard .se-exam-number{display:none}#stress-education-dashboard .se-exam-name{font-size:14px}#stress-education-dashboard .se-selection{width:15px;height:15px}#stress-education-dashboard .se-exam-details{padding:12px 13px;margin-bottom:15px}#stress-education-dashboard .se-facts{gap:8px}#stress-education-dashboard .se-fact{grid-template-columns:3.3em minmax(0,1fr);gap:7px;font-size:12px;line-height:1.8}#stress-education-dashboard .se-research-note{font-size:11px;margin-top:10px}#stress-education-dashboard .se-controls{align-items:flex-start;padding:14px 13px 3px;gap:7px}#stress-education-dashboard .se-control-actions{width:100%;justify-content:space-between}#stress-education-dashboard .se-state-switch button{min-height:38px;padding:7px 13px}#stress-education-dashboard .se-motion{min-height:44px}#stress-education-dashboard .se-diagram{height:340px}#stress-education-dashboard .se-legends{padding:0 13px 12px;gap:9px}#stress-education-dashboard .se-result{gap:8px;padding:13px}#stress-education-dashboard .se-state-label{padding:5px 6px}#stress-education-dashboard .se-result h2{font-size:14px}#stress-education-dashboard .se-result p{font-size:11px}#stress-education-dashboard .se-foot{gap:4px}}
+    @media(pointer:coarse){#stress-education-dashboard .se-state-switch button{min-height:44px}#stress-education-dashboard .se-motion{min-height:44px}}
+    @media(prefers-reduced-motion:reduce){#stress-education-dashboard .se-exam{transition:none}}
+  
+/* Shared site header replaces the prototype brandbar. */
+#stress-education-dashboard .se-wrap{max-width:1060px;width:calc(100% - 64px);padding:26px 0 28px}
+#stress-education-dashboard .se-heading{padding-top:5px}
+#stress-education-dashboard .se-foot{padding-top:12px}
+#stress-education-dashboard h1{white-space:normal}
+#stress-education-dashboard .se-exam-name{overflow-wrap:anywhere}
+@media(max-width:700px){#stress-education-dashboard .se-wrap{width:calc(100% - 36px);padding:23px 0 25px}}
+@media(max-width:380px){#stress-education-dashboard .se-wrap{width:calc(100% - 28px)}}

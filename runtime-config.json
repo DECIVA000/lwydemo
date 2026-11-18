@@ -1,0 +1,9 @@
+{
+  "cloudEnabled": true,
+  "adminUrl": "https://script.google.com/macros/s/AKfycbycB_nawuSks69f2eNwlku7qFJqWl6Wv8NPjjRMUhyDWLGew0T6-_cmPGF8QUI5dEiGVA/exec",
+  "siteUrl": "https://demo.drlwy.com/",
+  "cacheSeconds": 60,
+  "reviewBuild": false,
+  "publicContentUrl": "https://script.google.com/macros/s/AKfycbxMedAK7xXEGXIugQ9meG9w5WcA2W3JzU3WI3r7vXac4PGA2djG7vpjBFDGyKCCH0R1tg/exec",
+  "migrationVersion": "github-candidate-20261116"
+}

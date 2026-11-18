@@ -1,0 +1,171 @@
+[
+  {
+    "id": "admission",
+    "title": "section.admission.title",
+    "summary": "section.admission.summary",
+    "blocks": [
+      {
+        "tone": "normal",
+        "title": "section.admission.block0.title",
+        "text": "section.admission.block0.text"
+      },
+      {
+        "tone": "normal",
+        "title": "section.admission.block1.title",
+        "text": "section.admission.block1.text"
+      },
+      {
+        "tone": "normal",
+        "title": "section.admission.block2.title",
+        "text": "section.admission.block2.text"
+      }
+    ],
+    "animation": null
+  },
+  {
+    "id": "fasting",
+    "title": "section.fasting.title",
+    "summary": "section.fasting.summary",
+    "blocks": [
+      {
+        "tone": "highlight",
+        "title": "section.fasting.block0.title",
+        "items": [
+          "section.fasting.block0.item0",
+          "section.fasting.block0.item1"
+        ]
+      },
+      {
+        "tone": "highlight",
+        "title": "section.fasting.block1.title",
+        "text": "section.fasting.block1.text"
+      }
+    ],
+    "animation": null
+  },
+  {
+    "id": "catheter",
+    "title": "section.catheter.title",
+    "summary": "section.catheter.summary",
+    "blocks": [
+      {
+        "tone": "normal",
+        "title": "section.catheter.block0.title",
+        "text": "section.catheter.block0.text"
+      },
+      {
+        "tone": "normal",
+        "title": "section.catheter.block1.title",
+        "text": "section.catheter.block1.text"
+      },
+      {
+        "tone": "normal",
+        "title": "section.catheter.block2.title",
+        "items": [
+          "section.catheter.block2.item0",
+          "section.catheter.block2.item1",
+          "section.catheter.block2.item2"
+        ]
+      }
+    ],
+    "animation": 52
+  },
+  {
+    "id": "choices",
+    "title": "section.choices.title",
+    "summary": "section.choices.summary",
+    "blocks": [
+      {
+        "tone": "normal",
+        "title": "section.choices.block0.title",
+        "items": [
+          "section.choices.block0.item0",
+          "section.choices.block0.item1"
+        ]
+      },
+      {
+        "tone": "normal",
+        "title": "section.choices.block1.title",
+        "items": [
+          "section.choices.block1.item0",
+          "section.choices.block1.item1"
+        ]
+      }
+    ],
+    "animation": 96
+  },
+  {
+    "id": "stents",
+    "title": "section.stents.title",
+    "summary": "section.stents.summary",
+    "blocks": [
+      {
+        "tone": "normal",
+        "title": "section.stents.block0.title",
+        "items": [
+          "section.stents.block0.item0",
+          "section.stents.block0.item1"
+        ]
+      },
+      {
+        "tone": "normal",
+        "title": "section.stents.block1.title",
+        "items": [
+          "section.stents.block1.item0",
+          "section.stents.block1.item1"
+        ]
+      }
+    ],
+    "animation": 96
+  },
+  {
+    "id": "aftercare",
+    "title": "section.aftercare.title",
+    "summary": "section.aftercare.summary",
+    "blocks": [
+      {
+        "tone": "highlight",
+        "title": "section.aftercare.block0.title",
+        "text": "section.aftercare.block0.text"
+      },
+      {
+        "tone": "normal",
+        "title": "section.aftercare.block1.title",
+        "text": "section.aftercare.block1.text"
+      },
+      {
+        "tone": "normal",
+        "title": "section.aftercare.block2.title",
+        "items": [
+          "section.aftercare.block2.item0",
+          "section.aftercare.block2.item1",
+          "section.aftercare.block2.item2",
+          "section.aftercare.block2.item3"
+        ]
+      }
+    ],
+    "animation": null
+  },
+  {
+    "id": "doctor",
+    "title": "section.doctor.title",
+    "summary": "section.doctor.summary",
+    "blocks": [
+      {
+        "tone": "normal",
+        "text": "section.doctor.block0.text"
+      },
+      {
+        "tone": "normal",
+        "title": "section.doctor.block1.title",
+        "items": [
+          "section.doctor.block1.item0",
+          "section.doctor.block1.item1",
+          "section.doctor.block1.item2",
+          "section.doctor.block1.item3"
+        ]
+      }
+    ],
+    "animation": null
+  }
+]

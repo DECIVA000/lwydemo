@@ -1,0 +1,78 @@
+Z-ANATOMY EXTRACTED SOURCE ASSETS
+
+Source: https://github.com/Z-Anatomy/Models-of-human-anatomy
+Archive: https://raw.githubusercontent.com/Z-Anatomy/Models-of-human-anatomy/master/Z-Anatomy.zip
+Original blend: source/Z-Anatomy/Startup.blend
+Local tool: tools/blender-4.2.9-windows-x64/blender.exe
+The downloaded archive passed ZIP CRC validation. No paid API was used.
+
+FILES
+anatomy.glb: 362 named mesh nodes, 14,185,036 bytes. Contains heart,
+arteries/coronaries/aorta, thoracic bones and skin regions.
+cardiovascular.glb: 47 named mesh nodes, 4,793,120 bytes. Contains the
+17 heart/valve meshes and 30 vessel meshes, in the same world coordinates.
+heart.glb, vessels.glb, skeleton.glb and skin.glb are separate layers.
+anatomy_inventory.json: actual surface bounds, topology, source names,
+categories, source settings and limitations. Use this inventory instead of
+the preliminary all_objects.json, whose native CURVE bound_box values are
+incorrect (Blender includes unscaled point radius in those boxes).
+asset_verification.json: binary GLB position-accessor validation. All 362
+exported surfaces match the evaluated source surface bounds to < 5e-8 m.
+
+COORDINATES
+All geometry is in meters, in a shared world coordinate system.
+glTF axes: +X patient left, +Y superior (head), +Z anterior (front).
+Blender axes: +X patient left, +Y posterior, +Z superior.
+Conversion is (x,y,z) Blender -> (x,z,-y) glTF.
+Heart is approximately x=-0.04 to 0.09, y=1.23 to 1.35, z=-0.03 to 0.09.
+Do not individually center the meshes or centerlines.
+
+NODE EXTRAS
+original_name: original Z-Anatomy object name, including .l/.r suffixes.
+category: heart, coronary, aorta, artery, valve, bone or skin.
+group: heart, vessels, skeleton or skin (corresponds to the layer file).
+Meshes have no glTF material; apply colors/opacity in the viewer.
+
+CENTERLINES
+centerlines.json is FROZEN at the original sampling. SHA256:
+11a2b6ab80753dbe7f0d1f7e6ecebb815035410b018b22cdde49001e62b90457
+Top-level {units, axes, centerlines:[{name, points, splines}]}.
+points is the first/main spline. splines retains all source vessel branches.
+Each spline has type, cyclic, points and radii_m, in glTF meters.
+Samples derive from the source Bezier handles, not hand-drawn routes.
+Ascending aorta has 33 points, left coronary artery 33, RCA 241.
+centerlines_dense.json is an optional separate 101-301 point resampling;
+the frozen original file was not changed.
+
+SOURCE LIMITATIONS RELEVANT TO AORTIC ROOT WORK
+The ascending aorta is a single surface tube (300 evaluated vertices,
+288 quads); it has two 12-vertex boundary rings at its ends. It has NO
+coronary side holes, NO wall thickness, and NO separate inner wall.
+Coronary artery objects are separate intersecting tubes. Their lumens are
+not joined to the ascending aorta or to each other. Branches also retain
+separate source splines. Rendering double-sided does not create a wall.
+There are three authentic source aortic leaflet meshes:
+Left coronary leaflet, Right coronary leaflet, Non-coronary leaflet.
+These are static atlas geometry, not physiological motion/flow models.
+The source names include posterior mitral and inferior/septal tricuspid
+leaflets, but lack separately named anterior mitral/tricuspid leaflets.
+
+Coronary origin centerline points (glTF meters):
+LM:  [0.0217335, 1.3305060, 0.0214416]
+RCA: [0.0045533, 1.3317839, 0.0408342]
+Ascending aortic proximal point: [0.0195464, 1.3164220, 0.0193235]
+These points and leaflet locations can support an explicitly labeled
+root reconstruction. Such repairs are NOT included in these original
+source GLBs. No primitives, decimation or anatomical substitutions were
+introduced into the exports. Evaluated curves and modifiers were baked.
+Unused isolated vertices/lines that are not part of a polygon surface are
+omitted by glTF; counts are documented in the inventory.
+
+LICENSE / REQUIRED ATTRIBUTION
+Keep License.txt and these attributions with redistributed derived assets:
+Z-Anatomy - The libre 3D atlas of anatomy - CC-BY-SA 4.0
+BodyParts3D - The Database Center for Life Science - CC-BY-SA 2.1 Japan
+https://creativecommons.org/licenses/by-sa/4.0/
+Derivative anatomical assets must retain the applicable attribution and
+share-alike terms. The repository also lists third-party NC assets for
+inner ear and kidney; neither inner ear nor kidney was selected here.

@@ -1,0 +1,21 @@
+/* z11: house first, existing three portal panels, dizziness last. */
+.site-topic-navigation{display:grid;grid-template-columns:minmax(116px,1.4fr) minmax(0,3fr) minmax(84px,1fr);gap:8px;align-items:stretch}
+.clinic-topic-links{display:flex;min-width:0;align-items:stretch}
+.clinic-topic-links a{display:flex;flex:1;align-items:center;justify-content:center;min-height:63px;padding:12px 8px;color:#536f65;font-size:14px;font-weight:500;line-height:1.5;text-align:center;text-decoration:none}
+.clinic-topic-label{word-break:keep-all}
+.clinic-topic-links a:hover{background:#edf1e8;color:#224f46}
+.clinic-topic-links a:focus-visible{outline:3px solid #b58a43;outline-offset:-3px}
+.site-topic-navigation .main-tabs{width:auto;margin:0;min-width:0}
+@media(max-width:900px){.site-topic-navigation .tab-index{display:none}}
+@media(max-width:700px){
+  html{scroll-padding-top:72px}
+  .site-topic-navigation{grid-template-columns:minmax(84px,1.4fr) minmax(0,3fr) minmax(58px,1fr);gap:0}
+  .clinic-topic-links a{min-height:63px;padding:10px 4px;font-size:13px}
+  .site-topic-navigation .main-tabs{gap:0}
+  .site-topic-navigation .main-tabs button{min-height:63px;padding:10px 3px;font-size:13px;line-height:1.5}
+}
+@media(max-width:360px){
+  .site-topic-navigation{grid-template-columns:minmax(76px,1.4fr) minmax(0,3fr) minmax(52px,1fr)}
+  .clinic-topic-links a,.site-topic-navigation .main-tabs button{font-size:12px;padding-inline:2px}
+}
+@media print{.site-topic-navigation{display:none!important}}

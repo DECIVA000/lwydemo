@@ -1,0 +1,2714 @@
+[
+  {
+    "key": "site.brand",
+    "group": "網站介面",
+    "label": "心導管・安心指南",
+    "defaultValue": "心導管・安心指南"
+  },
+  {
+    "key": "site.brandNote",
+    "group": "網站介面",
+    "label": "凌旺業醫師 衛教專區",
+    "defaultValue": "凌旺業醫師 衛教專區"
+  },
+  {
+    "key": "site.title",
+    "group": "網站介面",
+    "label": "心導管檢查與治療",
+    "defaultValue": "心導管檢查與治療"
+  },
+  {
+    "key": "site.heroTitle",
+    "group": "網站介面",
+    "label": "把治療的每一步，\n看得更清楚。",
+    "defaultValue": "把治療的每一步，\n看得更清楚。"
+  },
+  {
+    "key": "site.intro",
+    "group": "網站介面",
+    "label": "從住院準備到術後照護，搭配可旋轉、可暫停的三維動畫，陪你了解心導管檢查與治療。",
+    "defaultValue": "從住院準備到術後照護，搭配可旋轉、可暫停的三維動畫，陪你了解心導管檢查與治療。"
+  },
+  {
+    "key": "site.eyebrow",
+    "group": "網站介面",
+    "label": "術前須知 × 互動衛教",
+    "defaultValue": "術前須知 × 互動衛教"
+  },
+  {
+    "key": "site.primary",
+    "group": "網站介面",
+    "label": "開始閱讀衛教",
+    "defaultValue": "開始閱讀衛教"
+  },
+  {
+    "key": "site.secondary",
+    "group": "網站介面",
+    "label": "觀看三維動畫",
+    "defaultValue": "觀看三維動畫"
+  },
+  {
+    "key": "site.doctor",
+    "group": "網站介面",
+    "label": "心臟科 凌旺業醫師 關心您的健康",
+    "defaultValue": "心臟科 凌旺業醫師 關心您的健康"
+  },
+  {
+    "key": "site.readingTitle",
+    "group": "網站介面",
+    "label": "住院前，先了解這些事",
+    "defaultValue": "住院前，先了解這些事"
+  },
+  {
+    "key": "site.readingIntro",
+    "group": "網站介面",
+    "label": "依序閱讀，也可以直接選擇想了解的主題。",
+    "defaultValue": "依序閱讀，也可以直接選擇想了解的主題。"
+  },
+  {
+    "key": "site.animationTitle",
+    "group": "網站介面",
+    "label": "從血管狹窄，到恢復通流",
+    "defaultValue": "從血管狹窄，到恢復通流"
+  },
+  {
+    "key": "site.animationIntro",
+    "group": "網站介面",
+    "label": "看見斑塊、導管與支架的關係；可隨時暫停、旋轉與切換章節。",
+    "defaultValue": "看見斑塊、導管與支架的關係；可隨時暫停、旋轉與切換章節。"
+  },
+  {
+    "key": "site.animationEyebrow",
+    "group": "網站介面",
+    "label": "三維互動動畫",
+    "defaultValue": "三維互動動畫"
+  },
+  {
+    "key": "site.animationStart",
+    "group": "網站介面",
+    "label": "開啟互動動畫",
+    "defaultValue": "開啟互動動畫"
+  },
+  {
+    "key": "site.animationTime",
+    "group": "網站介面",
+    "label": "2 分 40 秒 · 四個章節",
+    "defaultValue": "2 分 40 秒 · 四個章節"
+  },
+  {
+    "key": "site.animationPosterTitle",
+    "group": "網站介面",
+    "label": "先看見完整心臟，再了解血管",
+    "defaultValue": "先看見完整心臟，再了解血管"
+  },
+  {
+    "key": "site.animationPosterText",
+    "group": "網站介面",
+    "label": "完整心臟 → 冠脈聚焦 → 導管與支架",
+    "defaultValue": "完整心臟 → 冠脈聚焦 → 導管與支架"
+  },
+  {
+    "key": "site.navGuide",
+    "group": "網站介面",
+    "label": "衛教指南",
+    "defaultValue": "衛教指南"
+  },
+  {
+    "key": "site.navAnimation",
+    "group": "網站介面",
+    "label": "互動動畫",
+    "defaultValue": "互動動畫"
+  },
+  {
+    "key": "site.navNotes",
+    "group": "網站介面",
+    "label": "醫師叮嚀",
+    "defaultValue": "醫師叮嚀"
+  },
+  {
+    "key": "site.previous",
+    "group": "網站介面",
+    "label": "上一張",
+    "defaultValue": "上一張"
+  },
+  {
+    "key": "site.next",
+    "group": "網站介面",
+    "label": "下一張",
+    "defaultValue": "下一張"
+  },
+  {
+    "key": "site.cardCounter",
+    "group": "網站介面",
+    "label": "衛教主題",
+    "defaultValue": "衛教主題"
+  },
+  {
+    "key": "site.allTopics",
+    "group": "網站介面",
+    "label": "所有主題",
+    "defaultValue": "所有主題"
+  },
+  {
+    "key": "site.openAnimation",
+    "group": "網站介面",
+    "label": "搭配動畫了解",
+    "defaultValue": "搭配動畫了解"
+  },
+  {
+    "key": "site.animationBack",
+    "group": "網站介面",
+    "label": "返回衛教指南",
+    "defaultValue": "返回衛教指南"
+  },
+  {
+    "key": "site.print",
+    "group": "網站介面",
+    "label": "列印衛教內容",
+    "defaultValue": "列印衛教內容"
+  },
+  {
+    "key": "site.footerNote",
+    "group": "網站介面",
+    "label": "實際治療方式依病情、檢查結果及醫病討論決定。",
+    "defaultValue": "實際治療方式依病情、檢查結果及醫病討論決定。"
+  },
+  {
+    "key": "site.admin",
+    "group": "網站介面",
+    "label": "內容管理",
+    "defaultValue": "內容管理"
+  },
+  {
+    "key": "site.published",
+    "group": "網站介面",
+    "label": "內容版本",
+    "defaultValue": "內容版本"
+  },
+  {
+    "key": "site.readMore",
+    "group": "網站介面",
+    "label": "展開閱讀",
+    "defaultValue": "展開閱讀"
+  },
+  {
+    "key": "site.close",
+    "group": "網站介面",
+    "label": "關閉",
+    "defaultValue": "關閉"
+  },
+  {
+    "key": "site.replay",
+    "group": "網站介面",
+    "label": "重新觀看",
+    "defaultValue": "重新觀看"
+  },
+  {
+    "key": "site.loading",
+    "group": "網站介面",
+    "label": "正在準備互動動畫…",
+    "defaultValue": "正在準備互動動畫…"
+  },
+  {
+    "key": "site.error",
+    "group": "網站介面",
+    "label": "暫時無法載入，請重新整理後再試。",
+    "defaultValue": "暫時無法載入，請重新整理後再試。"
+  },
+  {
+    "key": "site.contentFallback",
+    "group": "網站介面",
+    "label": "目前顯示網站內保存的衛教版本。",
+    "defaultValue": "目前顯示網站內保存的衛教版本。"
+  },
+  {
+    "key": "site.skip",
+    "group": "網站介面",
+    "label": "跳到衛教內容",
+    "defaultValue": "跳到衛教內容"
+  },
+  {
+    "key": "site.modelCredits",
+    "group": "網站介面",
+    "label": "解剖來源與模型說明",
+    "defaultValue": "解剖來源與模型說明"
+  },
+  {
+    "key": "site.continue",
+    "group": "網站介面",
+    "label": "繼續閱讀",
+    "defaultValue": "繼續閱讀"
+  },
+  {
+    "key": "site.chapter0",
+    "group": "網站介面",
+    "label": "斑塊與狹窄",
+    "defaultValue": "斑塊與狹窄"
+  },
+  {
+    "key": "site.chapter1",
+    "group": "網站介面",
+    "label": "破裂與血栓",
+    "defaultValue": "破裂與血栓"
+  },
+  {
+    "key": "site.chapter2",
+    "group": "網站介面",
+    "label": "導管與冠脈",
+    "defaultValue": "導管與冠脈"
+  },
+  {
+    "key": "site.chapter3",
+    "group": "網站介面",
+    "label": "氣球與支架",
+    "defaultValue": "氣球與支架"
+  },
+  {
+    "key": "site.homeLabel",
+    "group": "網站介面",
+    "label": "首頁",
+    "defaultValue": "首頁"
+  },
+  {
+    "key": "site.mainNavLabel",
+    "group": "網站介面",
+    "label": "主要導覽",
+    "defaultValue": "主要導覽"
+  },
+  {
+    "key": "site.heroVisualEyebrow",
+    "group": "網站介面",
+    "label": "心臟解剖・動態呈現",
+    "defaultValue": "心臟解剖・動態呈現"
+  },
+  {
+    "key": "site.heartPosterAlt",
+    "group": "網站介面",
+    "label": "完整心臟與表面冠狀動脈的三維解剖模型",
+    "defaultValue": "完整心臟與表面冠狀動脈的三維解剖模型"
+  },
+  {
+    "key": "site.plaqueVisualEyebrow",
+    "group": "網站介面",
+    "label": "認識冠狀動脈",
+    "defaultValue": "認識冠狀動脈"
+  },
+  {
+    "key": "site.plaquePosterAlt",
+    "group": "網站介面",
+    "label": "同心性斑塊的脂質核心與纖維帽三維剖面",
+    "defaultValue": "同心性斑塊的脂質核心與纖維帽三維剖面"
+  },
+  {
+    "key": "site.animationFrameTitle",
+    "group": "網站介面",
+    "label": "心導管三維互動動畫",
+    "defaultValue": "心導管三維互動動畫"
+  },
+  {
+    "key": "site.description",
+    "group": "網站介面",
+    "label": "心導管檢查與治療互動衛教，從住院準備到術後照護，搭配三維解剖動畫。",
+    "defaultValue": "心導管檢查與治療互動衛教，從住院準備到術後照護，搭配三維解剖動畫。"
+  },
+  {
+    "key": "site.takeHomeTitle",
+    "group": "網站介面",
+    "label": "QR Code 區塊標題",
+    "defaultValue": "掃碼收藏，回家慢慢看。"
+  },
+  {
+    "key": "section.admission.title",
+    "group": "住院手續與準備",
+    "label": "主題名稱",
+    "defaultValue": "住院手續與準備"
+  },
+  {
+    "key": "section.admission.summary",
+    "group": "住院手續與準備",
+    "label": "主題摘要",
+    "defaultValue": "從門診到住院，先完成準備。"
+  },
+  {
+    "key": "section.admission.block0.title",
+    "group": "住院手續與準備",
+    "label": "門診當日・標題",
+    "defaultValue": "門診當日"
+  },
+  {
+    "key": "section.admission.block0.text",
+    "group": "住院手續與準備",
+    "label": "門診當日・內文",
+    "defaultValue": "門診結束批價領藥後，請先到 16 號櫃台辦理住院床位登記，住院前一天會收到床位通知。"
+  },
+  {
+    "key": "section.admission.block1.title",
+    "group": "住院手續與準備",
+    "label": "點滴與陪同・標題",
+    "defaultValue": "點滴與陪同"
+  },
+  {
+    "key": "section.admission.block1.text",
+    "group": "住院手續與準備",
+    "label": "點滴與陪同・內文",
+    "defaultValue": "抵達病房時，請主動告知護理師：「靜脈點滴請打在右手」。"
+  },
+  {
+    "key": "section.admission.block2.title",
+    "group": "住院手續與準備",
+    "label": "家屬陪同・標題",
+    "defaultValue": "家屬陪同"
+  },
+  {
+    "key": "section.admission.block2.text",
+    "group": "住院手續與準備",
+    "label": "家屬陪同・內文",
+    "defaultValue": "檢查當日請務必由成年親屬陪同。"
+  },
+  {
+    "key": "section.fasting.title",
+    "group": "禁食規定",
+    "label": "主題名稱",
+    "defaultValue": "禁食規定"
+  },
+  {
+    "key": "section.fasting.summary",
+    "group": "禁食規定",
+    "label": "主題摘要",
+    "defaultValue": "手術前請嚴格遵守禁食時間。"
+  },
+  {
+    "key": "section.fasting.block0.title",
+    "group": "禁食規定",
+    "label": "前一日住院者・標題",
+    "defaultValue": "前一日住院者"
+  },
+  {
+    "key": "section.fasting.block0.item0",
+    "group": "禁食規定",
+    "label": "前一日住院者・第1點",
+    "defaultValue": "手術日凌晨開始禁止進食。"
+  },
+  {
+    "key": "section.fasting.block0.item1",
+    "group": "禁食規定",
+    "label": "前一日住院者・第2點",
+    "defaultValue": "手術前 4 小時請勿喝水。"
+  },
+  {
+    "key": "section.fasting.block1.title",
+    "group": "禁食規定",
+    "label": "當日住院者・標題",
+    "defaultValue": "當日住院者"
+  },
+  {
+    "key": "section.fasting.block1.text",
+    "group": "禁食規定",
+    "label": "當日住院者・內文",
+    "defaultValue": "當天上午 9 點後全面禁止飲食。"
+  },
+  {
+    "key": "section.catheter.title",
+    "group": "什麼是心導管？",
+    "label": "主題名稱",
+    "defaultValue": "什麼是心導管？"
+  },
+  {
+    "key": "section.catheter.summary",
+    "group": "什麼是心導管？",
+    "label": "主題摘要",
+    "defaultValue": "通常由手腕或鼠蹊部進行，分為兩階段。"
+  },
+  {
+    "key": "section.catheter.block0.title",
+    "group": "什麼是心導管？",
+    "label": "檢查（約 30 分鐘）・標題",
+    "defaultValue": "檢查（約 30 分鐘）"
+  },
+  {
+    "key": "section.catheter.block0.text",
+    "group": "什麼是心導管？",
+    "label": "檢查（約 30 分鐘）・內文",
+    "defaultValue": "了解心臟血管構造與阻塞情況。"
+  },
+  {
+    "key": "section.catheter.block1.title",
+    "group": "什麼是心導管？",
+    "label": "治療（約 1–2 小時）・標題",
+    "defaultValue": "治療（約 1–2 小時）"
+  },
+  {
+    "key": "section.catheter.block1.text",
+    "group": "什麼是心導管？",
+    "label": "治療（約 1–2 小時）・內文",
+    "defaultValue": "若需治療，醫師會先與家屬說明。最常見為「放置支架」。"
+  },
+  {
+    "key": "section.catheter.block2.title",
+    "group": "什麼是心導管？",
+    "label": "檢查後可能結果・標題",
+    "defaultValue": "檢查後可能結果"
+  },
+  {
+    "key": "section.catheter.block2.item0",
+    "group": "什麼是心導管？",
+    "label": "檢查後可能結果・第1點",
+    "defaultValue": "無需治療"
+  },
+  {
+    "key": "section.catheter.block2.item1",
+    "group": "什麼是心導管？",
+    "label": "檢查後可能結果・第2點",
+    "defaultValue": "建議放置支架"
+  },
+  {
+    "key": "section.catheter.block2.item2",
+    "group": "什麼是心導管？",
+    "label": "檢查後可能結果・第3點",
+    "defaultValue": "病灶複雜，需討論放支架或開胸"
+  },
+  {
+    "key": "section.choices.title",
+    "group": "複雜病灶的兩種選擇",
+    "label": "主題名稱",
+    "defaultValue": "複雜病灶的兩種選擇"
+  },
+  {
+    "key": "section.choices.summary",
+    "group": "複雜病灶的兩種選擇",
+    "label": "主題摘要",
+    "defaultValue": "若病灶較多或複雜，醫師會討論兩種治療。"
+  },
+  {
+    "key": "section.choices.block0.title",
+    "group": "複雜病灶的兩種選擇",
+    "label": "開胸繞道手術（CABG）・標題",
+    "defaultValue": "開胸繞道手術（CABG）"
+  },
+  {
+    "key": "section.choices.block0.item0",
+    "group": "複雜病灶的兩種選擇",
+    "label": "開胸繞道手術（CABG）・第1點",
+    "defaultValue": "需全身麻醉、住加護病房，恢復期長。"
+  },
+  {
+    "key": "section.choices.block0.item1",
+    "group": "複雜病灶的兩種選擇",
+    "label": "開胸繞道手術（CABG）・第2點",
+    "defaultValue": "部分負擔約 6 萬；微創約再加 4 萬。"
+  },
+  {
+    "key": "section.choices.block1.title",
+    "group": "複雜病灶的兩種選擇",
+    "label": "心導管支架（PCI）・標題",
+    "defaultValue": "心導管支架（PCI）"
+  },
+  {
+    "key": "section.choices.block1.item0",
+    "group": "複雜病灶的兩種選擇",
+    "label": "心導管支架（PCI）・第1點",
+    "defaultValue": "局部麻醉，傷口小恢復快。"
+  },
+  {
+    "key": "section.choices.block1.item1",
+    "group": "複雜病灶的兩種選擇",
+    "label": "心導管支架（PCI）・第2點",
+    "defaultValue": "塗藥支架約 5.9 萬／支，複雜病灶常需分次進行。"
+  },
+  {
+    "key": "section.stents.title",
+    "group": "認識血管支架",
+    "label": "主題名稱",
+    "defaultValue": "認識血管支架"
+  },
+  {
+    "key": "section.stents.summary",
+    "group": "認識血管支架",
+    "label": "主題摘要",
+    "defaultValue": "支架是血管內的「金屬網」，撐開狹窄處。"
+  },
+  {
+    "key": "section.stents.block0.title",
+    "group": "認識血管支架",
+    "label": "塗藥金屬支架（DES）— 主流・標題",
+    "defaultValue": "塗藥金屬支架（DES）— 主流"
+  },
+  {
+    "key": "section.stents.block0.item0",
+    "group": "認識血管支架",
+    "label": "塗藥金屬支架（DES）— 主流・第1點",
+    "defaultValue": "表面有藥物，再狹窄率低（<4–8%）。"
+  },
+  {
+    "key": "section.stents.block0.item1",
+    "group": "認識血管支架",
+    "label": "塗藥金屬支架（DES）— 主流・第2點",
+    "defaultValue": "需自費，約 5.9 萬／支。"
+  },
+  {
+    "key": "section.stents.block1.title",
+    "group": "認識血管支架",
+    "label": "裸金屬支架（BMS）・標題",
+    "defaultValue": "裸金屬支架（BMS）"
+  },
+  {
+    "key": "section.stents.block1.item0",
+    "group": "認識血管支架",
+    "label": "裸金屬支架（BMS）・第1點",
+    "defaultValue": "健保給付，無藥物塗層。"
+  },
+  {
+    "key": "section.stents.block1.item1",
+    "group": "認識血管支架",
+    "label": "裸金屬支架（BMS）・第2點",
+    "defaultValue": "再狹窄機率較高（約 30–40%）。"
+  },
+  {
+    "key": "section.aftercare.title",
+    "group": "術後極重要叮嚀",
+    "label": "主題名稱",
+    "defaultValue": "術後極重要叮嚀"
+  },
+  {
+    "key": "section.aftercare.summary",
+    "group": "術後極重要叮嚀",
+    "label": "主題摘要",
+    "defaultValue": "按時服藥，遇到狀況先與心臟科討論。"
+  },
+  {
+    "key": "section.aftercare.block0.title",
+    "group": "術後極重要叮嚀",
+    "label": "請勿自行停藥・標題",
+    "defaultValue": "請勿自行停藥"
+  },
+  {
+    "key": "section.aftercare.block0.text",
+    "group": "術後極重要叮嚀",
+    "label": "請勿自行停藥・內文",
+    "defaultValue": "無論是否做過導管，只要血管有問題，都須終身服藥，絕對不可自行停藥。"
+  },
+  {
+    "key": "section.aftercare.block1.title",
+    "group": "術後極重要叮嚀",
+    "label": "抗血小板藥物・標題",
+    "defaultValue": "抗血小板藥物"
+  },
+  {
+    "key": "section.aftercare.block1.text",
+    "group": "術後極重要叮嚀",
+    "label": "抗血小板藥物・內文",
+    "defaultValue": "請務必按時服用「抗血小板藥物」，防血管再次阻塞引發危險！"
+  },
+  {
+    "key": "section.aftercare.block2.title",
+    "group": "術後極重要叮嚀",
+    "label": "遇到以下狀況，請先告知心臟科・標題",
+    "defaultValue": "遇到以下狀況，請先告知心臟科"
+  },
+  {
+    "key": "section.aftercare.block2.item0",
+    "group": "術後極重要叮嚀",
+    "label": "遇到以下狀況，請先告知心臟科・第1點",
+    "defaultValue": "準備拔牙或植牙"
+  },
+  {
+    "key": "section.aftercare.block2.item1",
+    "group": "術後極重要叮嚀",
+    "label": "遇到以下狀況，請先告知心臟科・第2點",
+    "defaultValue": "需要動外科手術"
+  },
+  {
+    "key": "section.aftercare.block2.item2",
+    "group": "術後極重要叮嚀",
+    "label": "遇到以下狀況，請先告知心臟科・第3點",
+    "defaultValue": "安排胃鏡／大腸鏡等檢查"
+  },
+  {
+    "key": "section.aftercare.block2.item3",
+    "group": "術後極重要叮嚀",
+    "label": "遇到以下狀況，請先告知心臟科・第4點",
+    "defaultValue": "身體有異常出血情形"
+  },
+  {
+    "key": "section.doctor.title",
+    "group": "醫師小語",
+    "label": "主題名稱",
+    "defaultValue": "醫師小語"
+  },
+  {
+    "key": "section.doctor.summary",
+    "group": "醫師小語",
+    "label": "主題摘要",
+    "defaultValue": "與醫師一起決定適合你的治療。"
+  },
+  {
+    "key": "section.doctor.block0.text",
+    "group": "醫師小語",
+    "label": "醫師小語・內文",
+    "defaultValue": "本單張為心臟科凌旺業醫師個人衛教說明，不代表全部醫師及醫院立場。"
+  },
+  {
+    "key": "section.doctor.block1.title",
+    "group": "醫師小語",
+    "label": "實際治療方式，仍需依據您的：・標題",
+    "defaultValue": "實際治療方式，仍需依據您的："
+  },
+  {
+    "key": "section.doctor.block1.item0",
+    "group": "醫師小語",
+    "label": "實際治療方式，仍需依據您的：・第1點",
+    "defaultValue": "病情與檢查結果"
+  },
+  {
+    "key": "section.doctor.block1.item1",
+    "group": "醫師小語",
+    "label": "實際治療方式，仍需依據您的：・第2點",
+    "defaultValue": "手術風險評估"
+  },
+  {
+    "key": "section.doctor.block1.item2",
+    "group": "醫師小語",
+    "label": "實際治療方式，仍需依據您的：・第3點",
+    "defaultValue": "藥物使用狀況"
+  },
+  {
+    "key": "section.doctor.block1.item3",
+    "group": "醫師小語",
+    "label": "實際治療方式，仍需依據您的：・第4點",
+    "defaultValue": "醫病共同討論後做最終決定。"
+  },
+  {
+    "key": "animation.7e660f35777675",
+    "group": "動畫・播放器",
+    "label": "狹窄與血流",
+    "defaultValue": "狹窄與血流"
+  },
+  {
+    "key": "animation.b0b2ca48a9621f",
+    "group": "動畫・播放器",
+    "label": "斑塊破裂與血栓",
+    "defaultValue": "斑塊破裂與血栓"
+  },
+  {
+    "key": "animation.80da8445c20dfd",
+    "group": "動畫・播放器",
+    "label": "診斷性心導管",
+    "defaultValue": "診斷性心導管"
+  },
+  {
+    "key": "animation.38e3cafe4492a1",
+    "group": "動畫・播放器",
+    "label": "導絲、氣球與支架",
+    "defaultValue": "導絲、氣球與支架"
+  },
+  {
+    "key": "animation.0d04d27375ebf9",
+    "group": "動畫・播放器",
+    "label": "01 / 狹窄與血流",
+    "defaultValue": "01 / 狹窄與血流"
+  },
+  {
+    "key": "animation.dcc52b5ed216a4",
+    "group": "動畫・播放器",
+    "label": "02 / 斑塊破裂",
+    "defaultValue": "02 / 斑塊破裂"
+  },
+  {
+    "key": "animation.9419a51e82a75c",
+    "group": "動畫・播放器",
+    "label": "03 / 導管路徑與冠脈開口",
+    "defaultValue": "03 / 導管路徑與冠脈開口"
+  },
+  {
+    "key": "animation.8b366fc5b0206a",
+    "group": "動畫・播放器",
+    "label": "04 / 冠狀動脈介入",
+    "defaultValue": "04 / 冠狀動脈介入"
+  },
+  {
+    "key": "animation.dfa184f0fec677",
+    "group": "動畫・播放器",
+    "label": "這個瀏覽器目前無法建立三維畫面。請用支援 WebGL 2 的完整瀏覽器開啟，並確認圖形加速可用。",
+    "defaultValue": "這個瀏覽器目前無法建立三維畫面。請用支援 WebGL 2 的完整瀏覽器開啟，並確認圖形加速可用。"
+  },
+  {
+    "key": "animation.4dd08915905549",
+    "group": "動畫・播放器",
+    "label": "病灶截面",
+    "defaultValue": "病灶截面"
+  },
+  {
+    "key": "animation.d79218c32483e6",
+    "group": "動畫・播放器",
+    "label": "參考截面",
+    "defaultValue": "參考截面"
+  },
+  {
+    "key": "animation.c1f15b84d861d1",
+    "group": "動畫・播放器",
+    "label": "血管內腔",
+    "defaultValue": "血管內腔"
+  },
+  {
+    "key": "animation.de72d4889dea93",
+    "group": "動畫・播放器",
+    "label": "脂質核心",
+    "defaultValue": "脂質核心"
+  },
+  {
+    "key": "animation.e47fe5aeecaa6d",
+    "group": "動畫・播放器",
+    "label": "局部纖維帽變薄",
+    "defaultValue": "局部纖維帽變薄"
+  },
+  {
+    "key": "animation.11e88cd53a2750",
+    "group": "動畫・播放器",
+    "label": "薄弱處破裂",
+    "defaultValue": "薄弱處破裂"
+  },
+  {
+    "key": "animation.7f19e001fcb401",
+    "group": "動畫・播放器",
+    "label": "動脈",
+    "defaultValue": "動脈"
+  },
+  {
+    "key": "animation.c380bd2527d3e0",
+    "group": "動畫・播放器",
+    "label": "導管",
+    "defaultValue": "導管"
+  },
+  {
+    "key": "animation.7d05117f17e4f0",
+    "group": "動畫・播放器",
+    "label": "骨性標誌",
+    "defaultValue": "骨性標誌"
+  },
+  {
+    "key": "animation.de7410971fe989",
+    "group": "動畫・播放器",
+    "label": "血管壁",
+    "defaultValue": "血管壁"
+  },
+  {
+    "key": "animation.4fe1a040b6e10c",
+    "group": "動畫・播放器",
+    "label": "纖維帽",
+    "defaultValue": "纖維帽"
+  },
+  {
+    "key": "animation.865db9accdc7c3",
+    "group": "動畫・播放器",
+    "label": "紅血球",
+    "defaultValue": "紅血球"
+  },
+  {
+    "key": "animation.0b2aba14defcfa",
+    "group": "動畫・播放器",
+    "label": "心肌",
+    "defaultValue": "心肌"
+  },
+  {
+    "key": "animation.99b01ac1819cb4",
+    "group": "動畫・播放器",
+    "label": "心臟血管",
+    "defaultValue": "心臟血管"
+  },
+  {
+    "key": "animation.523834047d932b",
+    "group": "動畫・播放器",
+    "label": "載入解剖模型",
+    "defaultValue": "載入解剖模型"
+  },
+  {
+    "key": "animation.e88df8437cf3f7",
+    "group": "動畫・播放器",
+    "label": "正在載入共同座標的解剖模型。",
+    "defaultValue": "正在載入共同座標的解剖模型。"
+  },
+  {
+    "key": "animation.2c35e9a3a4ed90",
+    "group": "動畫・播放器",
+    "label": "暫停",
+    "defaultValue": "暫停"
+  },
+  {
+    "key": "animation.c3396195e91ccd",
+    "group": "動畫・播放器",
+    "label": "播放",
+    "defaultValue": "播放"
+  },
+  {
+    "key": "animation.d8ef9c6e2ffcd7",
+    "group": "動畫・播放器",
+    "label": "左橈 → 肱 → 腋 → 左鎖骨下 → 主動脈弓 → 升主動脈 → 根部",
+    "defaultValue": "左橈 → 肱 → 腋 → 左鎖骨下 → 主動脈弓 → 升主動脈 → 根部"
+  },
+  {
+    "key": "animation.3e13bb6faf9a53",
+    "group": "動畫・播放器",
+    "label": "右股 → 右外髂 → 右總髂 → 腹主動脈 → 胸主動脈 → 主動脈弓 → 升主動脈 → 根部",
+    "defaultValue": "右股 → 右外髂 → 右總髂 → 腹主動脈 → 胸主動脈 → 主動脈弓 → 升主動脈 → 根部"
+  },
+  {
+    "key": "animation.e1a74aa7b253f4",
+    "group": "動畫・播放器",
+    "label": "圖形連線已中斷。重新載入頁面可重新建立場景。",
+    "defaultValue": "圖形連線已中斷。重新載入頁面可重新建立場景。"
+  },
+  {
+    "key": "animation.670147c847a2a1",
+    "group": "動畫・播放器",
+    "label": "解剖模型已載入",
+    "defaultValue": "解剖模型已載入"
+  },
+  {
+    "key": "animation.46af7090451fa5",
+    "group": "動畫・播放器",
+    "label": "解剖模型載入失敗",
+    "defaultValue": "解剖模型載入失敗"
+  },
+  {
+    "key": "animation.fa37cf4c1912b1",
+    "group": "動畫・播放器",
+    "label": "模型載入失敗：",
+    "defaultValue": "模型載入失敗："
+  },
+  {
+    "key": "animation.1c8b25b38efea5",
+    "group": "動畫・播放器",
+    "label": "。請透過本機伺服器或網站開啟。",
+    "defaultValue": "。請透過本機伺服器或網站開啟。"
+  },
+  {
+    "key": "animation.c392881a803b9e",
+    "group": "動畫・斑塊與支架",
+    "label": "纖維帽（象牙白）",
+    "defaultValue": "纖維帽（象牙白）"
+  },
+  {
+    "key": "animation.48db9713ea94ab",
+    "group": "動畫・斑塊與支架",
+    "label": "脂質核心（金黃）",
+    "defaultValue": "脂質核心（金黃）"
+  },
+  {
+    "key": "animation.a2057dcf7772cc",
+    "group": "動畫・斑塊與支架",
+    "label": "薄弱處纖維帽裂口",
+    "defaultValue": "薄弱處纖維帽裂口"
+  },
+  {
+    "key": "animation.3a191ae438afb1",
+    "group": "動畫・斑塊與支架",
+    "label": "局部薄弱處・纖維帽變薄",
+    "defaultValue": "局部薄弱處・纖維帽變薄"
+  },
+  {
+    "key": "animation.28312803087d40",
+    "group": "動畫・斑塊與支架",
+    "label": "正常管腔",
+    "defaultValue": "正常管腔"
+  },
+  {
+    "key": "animation.6893d40daf92bd",
+    "group": "動畫・斑塊與支架",
+    "label": "同心斑塊形成・脂質核心擴大",
+    "defaultValue": "同心斑塊形成・脂質核心擴大"
+  },
+  {
+    "key": "animation.34c680c29787c7",
+    "group": "動畫・斑塊與支架",
+    "label": "核心擴大・局部纖維帽變薄",
+    "defaultValue": "核心擴大・局部纖維帽變薄"
+  },
+  {
+    "key": "animation.02026babfca8f5",
+    "group": "動畫・斑塊與支架",
+    "label": "直徑狹窄 70%・局部薄弱處形成",
+    "defaultValue": "直徑狹窄 70%・局部薄弱處形成"
+  },
+  {
+    "key": "animation.d8fd06a29acc72",
+    "group": "動畫・斑塊與支架",
+    "label": "血管前半部剖開；雙凹紅血球作為血流方向的視覺線索。",
+    "defaultValue": "血管前半部剖開；雙凹紅血球作為血流方向的視覺線索。"
+  },
+  {
+    "key": "animation.abf0aac6410016",
+    "group": "動畫・斑塊與支架",
+    "label": "脂質與細胞殘骸累積，金黃色核心逐漸擴大；象牙白纖維帽覆蓋核心，外側為淡褐色基質。疾病長期演變在此濃縮呈現。",
+    "defaultValue": "脂質與細胞殘骸累積，金黃色核心逐漸擴大；象牙白纖維帽覆蓋核心，外側為淡褐色基質。疾病長期演變在此濃縮呈現。"
+  },
+  {
+    "key": "animation.e49bda431b7359",
+    "group": "動畫・斑塊與支架",
+    "label": "發炎與膠原纖維組織分解使局部纖維帽逐漸變薄，形成薄弱處；核心變大並不代表必定撐破纖維帽。",
+    "defaultValue": "發炎與膠原纖維組織分解使局部纖維帽逐漸變薄，形成薄弱處；核心變大並不代表必定撐破纖維帽。"
+  },
+  {
+    "key": "animation.7105fa8cc839d2",
+    "group": "動畫・斑塊與支架",
+    "label": "最窄處直徑狹窄 70%、圓形管腔面積剩 9%；發炎相關纖維組織分解仍使局部帽變薄，其他部位保留較厚纖維帽。",
+    "defaultValue": "最窄處直徑狹窄 70%、圓形管腔面積剩 9%；發炎相關纖維組織分解仍使局部帽變薄，其他部位保留較厚纖維帽。"
+  },
+  {
+    "key": "animation.f8df96b60692ec",
+    "group": "動畫・斑塊與支架",
+    "label": "分層血管壁",
+    "defaultValue": "分層血管壁"
+  },
+  {
+    "key": "animation.f86c4d3279e582",
+    "group": "動畫・斑塊與支架",
+    "label": "雙凹紅血球",
+    "defaultValue": "雙凹紅血球"
+  },
+  {
+    "key": "animation.6b9f4daedc12ac",
+    "group": "動畫・斑塊與支架",
+    "label": "局部纖維帽持續變薄",
+    "defaultValue": "局部纖維帽持續變薄"
+  },
+  {
+    "key": "animation.da4cc74022dcb3",
+    "group": "動畫・斑塊與支架",
+    "label": "薄弱處纖維帽破裂",
+    "defaultValue": "薄弱處纖維帽破裂"
+  },
+  {
+    "key": "animation.ff4cd4bc0b5b0f",
+    "group": "動畫・斑塊與支架",
+    "label": "血小板與纖維蛋白聚集",
+    "defaultValue": "血小板與纖維蛋白聚集"
+  },
+  {
+    "key": "animation.c213eaa0269969",
+    "group": "動畫・斑塊與支架",
+    "label": "血栓造成完全閉塞",
+    "defaultValue": "血栓造成完全閉塞"
+  },
+  {
+    "key": "animation.271cc79dff7d79",
+    "group": "動畫・斑塊與支架",
+    "label": "發炎與膠原纖維組織分解使同一薄弱處的帽進一步變薄；核心仍被完整纖維帽隔開。此為時間濃縮的一種病程，並非每個薄",
+    "defaultValue": "發炎與膠原纖維組織分解使同一薄弱處的帽進一步變薄；核心仍被完整纖維帽隔開。此為時間濃縮的一種病程，並非每個薄帽斑塊都會破裂。"
+  },
+  {
+    "key": "animation.fa453d4a340e1b",
+    "group": "動畫・斑塊與支架",
+    "label": "原本最薄弱的局部纖維帽出現裂口，露出脂質核心；血液接觸核心內的血栓形成物質，隨後引發血小板黏附與凝血反應。",
+    "defaultValue": "原本最薄弱的局部纖維帽出現裂口，露出脂質核心；血液接觸核心內的血栓形成物質，隨後引發血小板黏附與凝血反應。"
+  },
+  {
+    "key": "animation.8d7cad20e19c14",
+    "group": "動畫・斑塊與支架",
+    "label": "血小板聚集，纖維蛋白網形成並穩定血栓；剩餘管腔持續縮小。",
+    "defaultValue": "血小板聚集，纖維蛋白網形成並穩定血栓；剩餘管腔持續縮小。"
+  },
+  {
+    "key": "animation.65ee96bf51899a",
+    "group": "動畫・斑塊與支架",
+    "label": "血栓填滿剩餘管腔，形成完全閉塞；並非所有斑塊破裂都會走到這一步。",
+    "defaultValue": "血栓填滿剩餘管腔，形成完全閉塞；並非所有斑塊破裂都會走到這一步。"
+  },
+  {
+    "key": "animation.adfb5a2e81e3fb",
+    "group": "動畫・斑塊與支架",
+    "label": "血小板・纖維蛋白血栓",
+    "defaultValue": "血小板・纖維蛋白血栓"
+  },
+  {
+    "key": "animation.cc93e4ad00ebc1",
+    "group": "動畫・斑塊與支架",
+    "label": "導絲跨越狹窄病灶",
+    "defaultValue": "導絲跨越狹窄病灶"
+  },
+  {
+    "key": "animation.14dbc36e6efce9",
+    "group": "動畫・斑塊與支架",
+    "label": "預擴張氣球沿導絲送入",
+    "defaultValue": "預擴張氣球沿導絲送入"
+  },
+  {
+    "key": "animation.017b6a0c7a36a5",
+    "group": "動畫・斑塊與支架",
+    "label": "預擴張氣球充盈",
+    "defaultValue": "預擴張氣球充盈"
+  },
+  {
+    "key": "animation.04293aa36179ae",
+    "group": "動畫・斑塊與支架",
+    "label": "氣球洩壓",
+    "defaultValue": "氣球洩壓"
+  },
+  {
+    "key": "animation.873469cc822be1",
+    "group": "動畫・斑塊與支架",
+    "label": "預擴張氣球撤出",
+    "defaultValue": "預擴張氣球撤出"
+  },
+  {
+    "key": "animation.34802734445f75",
+    "group": "動畫・斑塊與支架",
+    "label": "支架沿導絲送入",
+    "defaultValue": "支架沿導絲送入"
+  },
+  {
+    "key": "animation.c5d96b0b023225",
+    "group": "動畫・斑塊與支架",
+    "label": "支架隨氣球展開",
+    "defaultValue": "支架隨氣球展開"
+  },
+  {
+    "key": "animation.6d406d694bcc2f",
+    "group": "動畫・斑塊與支架",
+    "label": "支架內氣球洩壓",
+    "defaultValue": "支架內氣球洩壓"
+  },
+  {
+    "key": "animation.c3b9d0af5d0a34",
+    "group": "動畫・斑塊與支架",
+    "label": "支架內氣球撤出",
+    "defaultValue": "支架內氣球撤出"
+  },
+  {
+    "key": "animation.d43aa8fb84216d",
+    "group": "動畫・斑塊與支架",
+    "label": "導絲撤出",
+    "defaultValue": "導絲撤出"
+  },
+  {
+    "key": "animation.5cbf340e70c462",
+    "group": "動畫・斑塊與支架",
+    "label": "支架留置，管腔擴大",
+    "defaultValue": "支架留置，管腔擴大"
+  },
+  {
+    "key": "animation.c1b648e329db05",
+    "group": "動畫・斑塊與支架",
+    "label": "以同心性（環狀）狹窄病灶示範 PCI：導絲沿置中的管腔跨越病灶，建立器械通路。",
+    "defaultValue": "以同心性（環狀）狹窄病灶示範 PCI：導絲沿置中的管腔跨越病灶，建立器械通路。"
+  },
+  {
+    "key": "animation.9f50e0cf3e8be8",
+    "group": "動畫・斑塊與支架",
+    "label": "沿導絲將洩壓的預擴張氣球送到病灶中央。",
+    "defaultValue": "沿導絲將洩壓的預擴張氣球送到病灶中央。"
+  },
+  {
+    "key": "animation.092fa154abf173",
+    "group": "動畫・斑塊與支架",
+    "label": "氣球在管腔中央充盈，向四周對稱壓縮環狀斑塊、擴大管腔；此為簡化的機械示意。",
+    "defaultValue": "氣球在管腔中央充盈，向四周對稱壓縮環狀斑塊、擴大管腔；此為簡化的機械示意。"
+  },
+  {
+    "key": "animation.360fc63e1bbda7",
+    "group": "動畫・斑塊與支架",
+    "label": "預擴張氣球洩壓後恢復細小輪廓。",
+    "defaultValue": "預擴張氣球洩壓後恢復細小輪廓。"
+  },
+  {
+    "key": "animation.84b5793cd78db1",
+    "group": "動畫・斑塊與支架",
+    "label": "預擴張氣球完全撤出，導絲保留作為後續通路。",
+    "defaultValue": "預擴張氣球完全撤出，導絲保留作為後續通路。"
+  },
+  {
+    "key": "animation.aea9b3e2fa71cc",
+    "group": "動畫・斑塊與支架",
+    "label": "壓縮的金屬支架包覆在氣球外，沿導絲送到病灶。",
+    "defaultValue": "壓縮的金屬支架包覆在氣球外，沿導絲送到病灶。"
+  },
+  {
+    "key": "animation.25d46bdda0cb4b",
+    "group": "動畫・斑塊與支架",
+    "label": "氣球充盈時，金屬 zigzag 網格展開並貼近血管內壁。",
+    "defaultValue": "氣球充盈時，金屬 zigzag 網格展開並貼近血管內壁。"
+  },
+  {
+    "key": "animation.e1e3f6a3c88af1",
+    "group": "動畫・斑塊與支架",
+    "label": "氣球洩壓，支架維持展開的直徑。",
+    "defaultValue": "氣球洩壓，支架維持展開的直徑。"
+  },
+  {
+    "key": "animation.5a2cf3899a5ebb",
+    "group": "動畫・斑塊與支架",
+    "label": "依序撤出氣球導管與導絲，已展開的支架留在病灶位置。",
+    "defaultValue": "依序撤出氣球導管與導絲，已展開的支架留在病灶位置。"
+  },
+  {
+    "key": "animation.64479ea1a8774f",
+    "group": "動畫・斑塊與支架",
+    "label": "器械撤出後，金屬支架持續支撐管腔。血球流動為示意，並非灌流量計算。",
+    "defaultValue": "器械撤出後，金屬支架持續支撐管腔。血球流動為示意，並非灌流量計算。"
+  },
+  {
+    "key": "animation.58aa699321b92e",
+    "group": "動畫・斑塊與支架",
+    "label": "導絲",
+    "defaultValue": "導絲"
+  },
+  {
+    "key": "animation.7700a9165cde1b",
+    "group": "動畫・斑塊與支架",
+    "label": "氣球導管",
+    "defaultValue": "氣球導管"
+  },
+  {
+    "key": "animation.ac932831ee0ac6",
+    "group": "動畫・斑塊與支架",
+    "label": "金屬支架",
+    "defaultValue": "金屬支架"
+  },
+  {
+    "key": "animation.7e6b00a92eb2b0",
+    "group": "動畫・斑塊與支架",
+    "label": "血管病灶模型",
+    "defaultValue": "血管病灶模型"
+  },
+  {
+    "key": "animation.b6dfe02cba8c8a",
+    "group": "動畫・斑塊與支架",
+    "label": "獨立的冠狀動脈同心性（環狀）病灶教學模型。",
+    "defaultValue": "獨立的冠狀動脈同心性（環狀）病灶教學模型。"
+  },
+  {
+    "key": "animation.755439f9195e96",
+    "group": "動畫・解剖與導管",
+    "label": "載入現成解剖模型、冠脈分支與導管…",
+    "defaultValue": "載入現成解剖模型、冠脈分支與導管…"
+  },
+  {
+    "key": "animation.bbbfd00c4f224a",
+    "group": "動畫・解剖與導管",
+    "label": "JL／JR 預成形輪廓比較",
+    "defaultValue": "JL／JR 預成形輪廓比較"
+  },
+  {
+    "key": "animation.bc60cb56f25399",
+    "group": "動畫・解剖與導管",
+    "label": "JL 的回折雙彎與 JR 的較淺主體、短末端彎分開建模。這裡是自由狀態；進入血管後會受管腔約束而改變形狀。",
+    "defaultValue": "JL 的回折雙彎與 JR 的較淺主體、短末端彎分開建模。這裡是自由狀態；進入血管後會受管腔約束而改變形狀。"
+  },
+  {
+    "key": "animation.0c99ac6f5e037f",
+    "group": "動畫・解剖與導管",
+    "label": "依 Cordis 診斷導管型錄重建輪廓；不是製造商 CAD 或尺寸驗收模型。",
+    "defaultValue": "依 Cordis 診斷導管型錄重建輪廓；不是製造商 CAD 或尺寸驗收模型。"
+  },
+  {
+    "key": "animation.62cc4e5fe5f6ac",
+    "group": "動畫・解剖與導管",
+    "label": "體外自由形狀",
+    "defaultValue": "體外自由形狀"
+  },
+  {
+    "key": "animation.afbaae99b5afc3",
+    "group": "動畫・解剖與導管",
+    "label": "左橈動脈穿刺處",
+    "defaultValue": "左橈動脈穿刺處"
+  },
+  {
+    "key": "animation.4abd05e7fa8e15",
+    "group": "動畫・解剖與導管",
+    "label": "右股動脈穿刺處",
+    "defaultValue": "右股動脈穿刺處"
+  },
+  {
+    "key": "animation.2f3f207125372d",
+    "group": "動畫・解剖與導管",
+    "label": "導入鞘",
+    "defaultValue": "導入鞘"
+  },
+  {
+    "key": "animation.6d32c4f1b4d3fe",
+    "group": "動畫・解剖與導管",
+    "label": "導絲先行",
+    "defaultValue": "導絲先行"
+  },
+  {
+    "key": "animation.3cdecf284b6db0",
+    "group": "動畫・解剖與導管",
+    "label": "主動脈弓",
+    "defaultValue": "主動脈弓"
+  },
+  {
+    "key": "animation.7768b450f05684",
+    "group": "動畫・解剖與導管",
+    "label": "升主動脈",
+    "defaultValue": "升主動脈"
+  },
+  {
+    "key": "animation.0c8cf3131a6cfc",
+    "group": "動畫・解剖與導管",
+    "label": "降主動脈",
+    "defaultValue": "降主動脈"
+  },
+  {
+    "key": "animation.d5ae04d302014e",
+    "group": "動畫・解剖與導管",
+    "label": "左鎖骨下動脈",
+    "defaultValue": "左鎖骨下動脈"
+  },
+  {
+    "key": "animation.f8d729d8b13950",
+    "group": "動畫・解剖與導管",
+    "label": "心臟",
+    "defaultValue": "心臟"
+  },
+  {
+    "key": "animation.e0ed351e4a2ce8",
+    "group": "動畫・解剖與導管",
+    "label": "供應心臟的血管",
+    "defaultValue": "供應心臟的血管"
+  },
+  {
+    "key": "animation.72abceb88b4c76",
+    "group": "動畫・解剖與導管",
+    "label": "左側心臟血管開口",
+    "defaultValue": "左側心臟血管開口"
+  },
+  {
+    "key": "animation.09eec1c512801b",
+    "group": "動畫・解剖與導管",
+    "label": "右側心臟血管開口",
+    "defaultValue": "右側心臟血管開口"
+  },
+  {
+    "key": "animation.ef4365b4394b74",
+    "group": "動畫・解剖與導管",
+    "label": "導管尖端",
+    "defaultValue": "導管尖端"
+  },
+  {
+    "key": "animation.c258cfe241a166",
+    "group": "動畫・解剖與導管",
+    "label": "左冠脈開口 · LM",
+    "defaultValue": "左冠脈開口 · LM"
+  },
+  {
+    "key": "animation.48e1f1043db406",
+    "group": "動畫・解剖與導管",
+    "label": "右冠脈開口 · RCA",
+    "defaultValue": "右冠脈開口 · RCA"
+  },
+  {
+    "key": "animation.4d639c0177e1e6",
+    "group": "動畫・解剖與導管",
+    "label": "主動脈瓣葉",
+    "defaultValue": "主動脈瓣葉"
+  },
+  {
+    "key": "animation.50733380ed30d4",
+    "group": "動畫・解剖與導管",
+    "label": "導絲退回 · 導管恢復曲線",
+    "defaultValue": "導絲退回 · 導管恢復曲線"
+  },
+  {
+    "key": "animation.714740ddc860ae",
+    "group": "動畫・解剖與導管",
+    "label": "JL 接合左冠脈開口",
+    "defaultValue": "JL 接合左冠脈開口"
+  },
+  {
+    "key": "animation.103d072243ee09",
+    "group": "動畫・解剖與導管",
+    "label": "JL · 左冠狀動脈顯影",
+    "defaultValue": "JL · 左冠狀動脈顯影"
+  },
+  {
+    "key": "animation.1e6ce31d5ff740",
+    "group": "動畫・解剖與導管",
+    "label": "JL 離開左冠脈開口",
+    "defaultValue": "JL 離開左冠脈開口"
+  },
+  {
+    "key": "animation.65638ed5b21280",
+    "group": "動畫・解剖與導管",
+    "label": "退出 JL · 交換 JR（時間濃縮）",
+    "defaultValue": "退出 JL · 交換 JR（時間濃縮）"
+  },
+  {
+    "key": "animation.1214e71d703c76",
+    "group": "動畫・解剖與導管",
+    "label": "JR 接合右冠脈開口",
+    "defaultValue": "JR 接合右冠脈開口"
+  },
+  {
+    "key": "animation.c7bbea3f05b8f6",
+    "group": "動畫・解剖與導管",
+    "label": "JR · 右冠狀動脈顯影",
+    "defaultValue": "JR · 右冠狀動脈顯影"
+  },
+  {
+    "key": "animation.8aa6f8565d5697",
+    "group": "動畫・解剖與導管",
+    "label": "冠狀動脈分支與心表面關係",
+    "defaultValue": "冠狀動脈分支與心表面關係"
+  },
+  {
+    "key": "animation.32b8754c7b3eb1",
+    "group": "動畫・解剖與導管",
+    "label": "導絲先行，導管沿左橈、肱、腋、左鎖骨下動脈進入主動脈弓，再轉入升主動脈。",
+    "defaultValue": "導絲先行，導管沿左橈、肱、腋、左鎖骨下動脈進入主動脈弓，再轉入升主動脈。"
+  },
+  {
+    "key": "animation.b96ee9c75b6598",
+    "group": "動畫・解剖與導管",
+    "label": "導絲先行，導管沿右股、外髂、總髂、腹主動脈與胸主動脈，跨過主動脈弓進入升主動脈。",
+    "defaultValue": "導絲先行，導管沿右股、外髂、總髂、腹主動脈與胸主動脈，跨過主動脈弓進入升主動脈。"
+  },
+  {
+    "key": "animation.bcd28f079a09ae",
+    "group": "動畫・解剖與導管",
+    "label": "遠端導絲退回後，預成形導管在主動脈內恢復彎曲；軸身與遠端彎曲保持連續。",
+    "defaultValue": "遠端導絲退回後，預成形導管在主動脈內恢復彎曲；軸身與遠端彎曲保持連續。"
+  },
+  {
+    "key": "animation.b6a10292c69afa",
+    "group": "動畫・解剖與導管",
+    "label": "JL 較寬的次彎在根部內彎回，末端主彎對準左冠脈開口，尖端沿左主幹方向。",
+    "defaultValue": "JL 較寬的次彎在根部內彎回，末端主彎對準左冠脈開口，尖端沿左主幹方向。"
+  },
+  {
+    "key": "animation.bd7efb3d2a7bfb",
+    "group": "動畫・解剖與導管",
+    "label": "左主幹分出左前降支（LAD）與左迴旋支（LCx）。淡金色表示顯影分布，並非真實 X 光影像。",
+    "defaultValue": "左主幹分出左前降支（LAD）與左迴旋支（LCx）。淡金色表示顯影分布，並非真實 X 光影像。"
+  },
+  {
+    "key": "animation.b30bb20fa14b10",
+    "group": "動畫・解剖與導管",
+    "label": "JL 尖端退出左冠脈開口，再離開主動脈根部。",
+    "defaultValue": "JL 尖端退出左冠脈開口，再離開主動脈根部。"
+  },
+  {
+    "key": "animation.7e0565d765d6cd",
+    "group": "動畫・解剖與導管",
+    "label": "JL 與 JR 是兩支不同形狀的導管。此處濃縮導管交換時間，未呈現完整交換操作。",
+    "defaultValue": "JL 與 JR 是兩支不同形狀的導管。此處濃縮導管交換時間，未呈現完整交換操作。"
+  },
+  {
+    "key": "animation.3656a36de98c3c",
+    "group": "動畫・解剖與導管",
+    "label": "JR 的較淺次彎與短末端彎轉向較前方的右冠脈開口；不跨過主動脈瓣。",
+    "defaultValue": "JR 的較淺次彎與短末端彎轉向較前方的右冠脈開口；不跨過主動脈瓣。"
+  },
+  {
+    "key": "animation.e321d3310a585b",
+    "group": "動畫・解剖與導管",
+    "label": "RCA 沿右房室溝走行並發出右室分支。可切換由上往下的根部剖視，檢查開口與瓣葉的關係。",
+    "defaultValue": "RCA 沿右房室溝走行並發出右室分支。可切換由上往下的根部剖視，檢查開口與瓣葉的關係。"
+  },
+  {
+    "key": "animation.39fce17c4e0a2b",
+    "group": "動畫・解剖與導管",
+    "label": "原圖譜 41 條冠脈曲線保留原始走向和漸細管徑。前面、左側及後面視角可分別辨認主要分支。",
+    "defaultValue": "原圖譜 41 條冠脈曲線保留原始走向和漸細管徑。前面、左側及後面視角可分別辨認主要分支。"
+  },
+  {
+    "key": "animation.ee1e9cfa11854f",
+    "group": "動畫・解剖與導管",
+    "label": "主動脈根部",
+    "defaultValue": "主動脈根部"
+  },
+  {
+    "key": "animation.1db68bf6612574",
+    "group": "動畫・解剖與導管",
+    "label": "左右開口依圖譜座標定位；根部內壁與相通孔道經幾何重建。自由形狀與腔內形變可分別檢視。",
+    "defaultValue": "左右開口依圖譜座標定位；根部內壁與相通孔道經幾何重建。自由形狀與腔內形變可分別檢視。"
+  },
+  {
+    "key": "animation.1d0ad9ac400c25",
+    "group": "動畫・解剖與導管",
+    "label": "人體表面、骨骼與血管共用公尺座標。導管外徑採 5 Fr（約 1.67 mm），由來源動脈中心線定位。",
+    "defaultValue": "人體表面、骨骼與血管共用公尺座標。導管外徑採 5 Fr（約 1.67 mm），由來源動脈中心線定位。"
+  },
+  {
+    "key": "animation.ad0df2e31e73d6",
+    "group": "動畫・解剖與導管",
+    "label": "冠脈取自現成圖譜的 41 條曲線。D1、D2 與急緣支名稱依原始分支及相鄰心腔判讀。",
+    "defaultValue": "冠脈取自現成圖譜的 41 條曲線。D1、D2 與急緣支名稱依原始分支及相鄰心腔判讀。"
+  },
+  {
+    "key": "animation.517193e5b0c4af",
+    "group": "動畫・解剖與導管",
+    "label": "先認識完整心臟，再逐漸看清血管與導管的關係；最後回到完整心臟。透明化是為了看清內部的視覺呈現。",
+    "defaultValue": "先認識完整心臟，再逐漸看清血管與導管的關係；最後回到完整心臟。透明化是為了看清內部的視覺呈現。"
+  },
+  {
+    "key": "animation.f62acd1afe5486",
+    "group": "動畫・解剖與導管",
+    "label": "人體、四腔心臟、瓣葉及 41 條冠脈曲線取自 Z-Anatomy／BodyParts3D。根部原圖譜沒有內壁",
+    "defaultValue": "人體、四腔心臟、瓣葉及 41 條冠脈曲線取自 Z-Anatomy／BodyParts3D。根部原圖譜沒有內壁或相通側孔，本版依來源中心線補作根部壁厚 0.8 mm、近端冠脈壁厚 0.35 mm、三竇及開口。JL／JR 自由輪廓參照 Cordis 診斷導管型錄分別重建，腔內形變為教學動畫；不是廠商 CAD、患者 CT 重建或經醫師驗收的操作模擬。"
+  },
+  {
+    "key": "animation.ce9087fdff0e1d",
+    "group": "動畫・導管標示",
+    "label": "左橈動脈",
+    "defaultValue": "左橈動脈"
+  },
+  {
+    "key": "animation.2e42bad2851f03",
+    "group": "動畫・導管標示",
+    "label": "肱動脈",
+    "defaultValue": "肱動脈"
+  },
+  {
+    "key": "animation.c2f88e1bc899fb",
+    "group": "動畫・導管標示",
+    "label": "腋動脈",
+    "defaultValue": "腋動脈"
+  },
+  {
+    "key": "animation.e871487ab50558",
+    "group": "動畫・導管標示",
+    "label": "右股動脈",
+    "defaultValue": "右股動脈"
+  },
+  {
+    "key": "animation.759d2cff97a9ee",
+    "group": "動畫・導管標示",
+    "label": "右外髂動脈",
+    "defaultValue": "右外髂動脈"
+  },
+  {
+    "key": "animation.3e226533a93869",
+    "group": "動畫・導管標示",
+    "label": "右總髂動脈",
+    "defaultValue": "右總髂動脈"
+  },
+  {
+    "key": "animation.636a1d03f7452b",
+    "group": "動畫・導管標示",
+    "label": "腹主動脈",
+    "defaultValue": "腹主動脈"
+  },
+  {
+    "key": "animation.1c0fb01f8cf331",
+    "group": "動畫・導管標示",
+    "label": "胸主動脈",
+    "defaultValue": "胸主動脈"
+  },
+  {
+    "key": "animation.0797e4fe8bfc1e",
+    "group": "動畫・導管標示",
+    "label": "導管交換",
+    "defaultValue": "導管交換"
+  },
+  {
+    "key": "animation.9f14fb9e217029",
+    "group": "動畫・導管標示",
+    "label": "JL · 左冠狀動脈導管",
+    "defaultValue": "JL · 左冠狀動脈導管"
+  },
+  {
+    "key": "animation.59d32a72093967",
+    "group": "動畫・導管標示",
+    "label": "JR · 右冠狀動脈導管",
+    "defaultValue": "JR · 右冠狀動脈導管"
+  },
+  {
+    "key": "animation.d85937ce582f89",
+    "group": "動畫・冠脈標示",
+    "label": "LM · 左主幹",
+    "defaultValue": "LM · 左主幹"
+  },
+  {
+    "key": "animation.52ede9cc606724",
+    "group": "動畫・冠脈標示",
+    "label": "RCA · 右冠狀動脈",
+    "defaultValue": "RCA · 右冠狀動脈"
+  },
+  {
+    "key": "animation.4294e073e862c5",
+    "group": "動畫・冠脈標示",
+    "label": "LAD · 左前降支",
+    "defaultValue": "LAD · 左前降支"
+  },
+  {
+    "key": "animation.264b0715a2da08",
+    "group": "動畫・冠脈標示",
+    "label": "LCx · 左迴旋支",
+    "defaultValue": "LCx · 左迴旋支"
+  },
+  {
+    "key": "animation.df93d69e3dc28d",
+    "group": "動畫・冠脈標示",
+    "label": "D1 · 第一對角支",
+    "defaultValue": "D1 · 第一對角支"
+  },
+  {
+    "key": "animation.884106c0e7ba5d",
+    "group": "動畫・冠脈標示",
+    "label": "D2 · 第二對角支",
+    "defaultValue": "D2 · 第二對角支"
+  },
+  {
+    "key": "animation.c4c76df53a3379",
+    "group": "動畫・冠脈標示",
+    "label": "AM · 右急緣支",
+    "defaultValue": "AM · 右急緣支"
+  },
+  {
+    "key": "animation.7920803ca1b6a5",
+    "group": "動畫・冠脈標示",
+    "label": "右冠下外側支",
+    "defaultValue": "右冠下外側支"
+  },
+  {
+    "key": "animation.664a15b46b7ecb",
+    "group": "動畫・冠脈標示",
+    "label": "LCx · 左室分支",
+    "defaultValue": "LCx · 左室分支"
+  },
+  {
+    "key": "animation.7b0b63d4612b50",
+    "group": "動畫・冠脈標示",
+    "label": "冠脈中心線與半徑樣本數不符",
+    "defaultValue": "冠脈中心線與半徑樣本數不符"
+  },
+  {
+    "key": "animation.a7b4871bcaa31b",
+    "group": "動畫・冠脈標示",
+    "label": "冠脈半徑無效",
+    "defaultValue": "冠脈半徑無效"
+  },
+  {
+    "key": "animation.270494b0df6016",
+    "group": "動畫・冠脈標示",
+    "label": "沿用原圖譜的結構名稱",
+    "defaultValue": "沿用原圖譜的結構名稱"
+  },
+  {
+    "key": "animation.40eceb4d0f258d",
+    "group": "動畫・冠脈標示",
+    "label": "依原圖譜分支順序與心室表面位置判讀；未增造血管",
+    "defaultValue": "依原圖譜分支順序與心室表面位置判讀；未增造血管"
+  },
+  {
+    "key": "animation.d5fea74e143b72",
+    "group": "動畫・冠脈標示",
+    "label": "完整保留原圖譜 41 條冠脈曲線及半徑，未增造分支。D1、D2、急緣支依既有分支順序與心室表面位置判讀；原圖",
+    "defaultValue": "完整保留原圖譜 41 條冠脈曲線及半徑，未增造分支。D1、D2、急緣支依既有分支順序與心室表面位置判讀；原圖譜未獨立標示 PDA、OM，故本版不以未核實名稱標註。"
+  },
+  {
+    "key": "animation.5dc14dd77350e4",
+    "group": "動畫・JL與JR",
+    "label": "JL 左冠導管",
+    "defaultValue": "JL 左冠導管"
+  },
+  {
+    "key": "animation.2de165cb02be83",
+    "group": "動畫・JL與JR",
+    "label": "JR 右冠導管",
+    "defaultValue": "JR 右冠導管"
+  },
+  {
+    "key": "animation.79298f244c23d1",
+    "group": "動畫・JL與JR",
+    "label": "Judkins 預成形輪廓比較",
+    "defaultValue": "Judkins 預成形輪廓比較"
+  },
+  {
+    "key": "animation.51fc840fa44392",
+    "group": "動畫・JL與JR",
+    "label": "依官方輪廓重建的預成形比較，非廠商 CAD；兩者採相同尺度，未標定特定型號尺寸。",
+    "defaultValue": "依官方輪廓重建的預成形比較，非廠商 CAD；兩者採相同尺度，未標定特定型號尺寸。"
+  },
+  {
+    "key": "animation.975cdde3a763cf",
+    "group": "動畫・JL與JR",
+    "label": "次彎",
+    "defaultValue": "次彎"
+  },
+  {
+    "key": "animation.c0307c56fa6d08",
+    "group": "動畫・JL與JR",
+    "label": "主彎",
+    "defaultValue": "主彎"
+  },
+  {
+    "key": "animation.1b0bfcec828ff3",
+    "group": "動畫・JL與JR",
+    "label": "預成形輪廓比較",
+    "defaultValue": "預成形輪廓比較"
+  },
+  {
+    "key": "animation.30375f7cac046f",
+    "group": "動畫・JL與JR",
+    "label": "JL 的回折次彎與 JR 的淺次彎採不同模型；霧白部分為尖端，淡金色部分呈現編織軸身。可拖曳旋轉比較三維形狀",
+    "defaultValue": "JL 的回折次彎與 JR 的淺次彎採不同模型；霧白部分為尖端，淡金色部分呈現編織軸身。可拖曳旋轉比較三維形狀。"
+  },
+  {
+    "key": "animation.5ad0cb0f74cf18",
+    "group": "動畫・心臟轉場",
+    "label": "先看完整心臟",
+    "defaultValue": "先看完整心臟"
+  },
+  {
+    "key": "animation.3b7061d65e8ff4",
+    "group": "動畫・心臟轉場",
+    "label": "先看完整的心臟，認識供應心肌血液的冠狀動脈。",
+    "defaultValue": "先看完整的心臟，認識供應心肌血液的冠狀動脈。"
+  },
+  {
+    "key": "animation.66a38bf5f9af4a",
+    "group": "動畫・心臟轉場",
+    "label": "心肌漸淡，血管逐漸清楚",
+    "defaultValue": "心肌漸淡，血管逐漸清楚"
+  },
+  {
+    "key": "animation.d03576f793ce4b",
+    "group": "動畫・心臟轉場",
+    "label": "鏡頭靠近時，心肌逐漸變透明，讓血管的位置更清楚。",
+    "defaultValue": "鏡頭靠近時，心肌逐漸變透明，讓血管的位置更清楚。"
+  },
+  {
+    "key": "animation.b79a99c746dda6",
+    "group": "動畫・心臟轉場",
+    "label": "看清導管與血管開口",
+    "defaultValue": "看清導管與血管開口"
+  },
+  {
+    "key": "animation.8e5d7e6632183b",
+    "group": "動畫・心臟轉場",
+    "label": "現在可以看見導管尖端與冠狀動脈開口相接的位置。",
+    "defaultValue": "現在可以看見導管尖端與冠狀動脈開口相接的位置。"
+  },
+  {
+    "key": "animation.3afe67db29b54f",
+    "group": "動畫・心臟轉場",
+    "label": "回到完整心臟",
+    "defaultValue": "回到完整心臟"
+  },
+  {
+    "key": "animation.596b26ff04e395",
+    "group": "動畫・心臟轉場",
+    "label": "再回到完整的心臟，看看這些血管如何分布在心臟表面。",
+    "defaultValue": "再回到完整的心臟，看看這些血管如何分布在心臟表面。"
+  },
+  {
+    "key": "animation.d0d381e262cbe4",
+    "group": "動畫・介面與說明",
+    "label": "冠狀動脈 · 擬真衛教動畫",
+    "defaultValue": "冠狀動脈 · 擬真衛教動畫"
+  },
+  {
+    "key": "animation.d017648581c835",
+    "group": "動畫・介面與說明",
+    "label": "冠狀動脈・解剖與導管",
+    "defaultValue": "冠狀動脈・解剖與導管"
+  },
+  {
+    "key": "animation.1c51b0b63827a3",
+    "group": "動畫・介面與說明",
+    "label": "從穿刺處，到冠脈開口",
+    "defaultValue": "從穿刺處，到冠脈開口"
+  },
+  {
+    "key": "animation.1c8c4429c15931",
+    "group": "動畫・介面與說明",
+    "label": "繁體中文・160 秒互動衛教動畫",
+    "defaultValue": "繁體中文・160 秒互動衛教動畫"
+  },
+  {
+    "key": "animation.2b9abb66aebc8c",
+    "group": "動畫・介面與說明",
+    "label": "擬真版",
+    "defaultValue": "擬真版"
+  },
+  {
+    "key": "animation.6996ccead0843f",
+    "group": "動畫・介面與說明",
+    "label": "準備三維場景…",
+    "defaultValue": "準備三維場景…"
+  },
+  {
+    "key": "animation.ca7bd10c7844a8",
+    "group": "動畫・介面標示",
+    "label": "冠狀動脈動畫播放器",
+    "defaultValue": "冠狀動脈動畫播放器"
+  },
+  {
+    "key": "animation.e0a9619500a779",
+    "group": "動畫・介面標示",
+    "label": "可旋轉的三維醫學動畫",
+    "defaultValue": "可旋轉的三維醫學動畫"
+  },
+  {
+    "key": "animation.e24bd20c6679d6",
+    "group": "動畫・介面與說明",
+    "label": "病人右 R",
+    "defaultValue": "病人右 R"
+  },
+  {
+    "key": "animation.0e943802c98c2d",
+    "group": "動畫・介面與說明",
+    "label": "L 病人左",
+    "defaultValue": "L 病人左"
+  },
+  {
+    "key": "animation.44b0d4e663d532",
+    "group": "動畫・介面標示",
+    "label": "回正視角（R）",
+    "defaultValue": "回正視角（R）"
+  },
+  {
+    "key": "animation.a2907ade401fbb",
+    "group": "動畫・介面與說明",
+    "label": "↺ 回正",
+    "defaultValue": "↺ 回正"
+  },
+  {
+    "key": "animation.8e1a99cfe7b744",
+    "group": "動畫・介面與說明",
+    "label": "標示",
+    "defaultValue": "標示"
+  },
+  {
+    "key": "animation.8c6825b97e8b62",
+    "group": "動畫・介面與說明",
+    "label": "拖曳旋轉 · 滾輪縮放",
+    "defaultValue": "拖曳旋轉 · 滾輪縮放"
+  },
+  {
+    "key": "animation.7ed646ddc5e9ed",
+    "group": "動畫・介面與說明",
+    "label": "準備三維場景",
+    "defaultValue": "準備三維場景"
+  },
+  {
+    "key": "animation.d881872358068e",
+    "group": "動畫・介面與說明",
+    "label": "觀察重點",
+    "defaultValue": "觀察重點"
+  },
+  {
+    "key": "animation.cf2c0e3128f990",
+    "group": "動畫・介面與說明",
+    "label": "同心性狹窄與剩餘面積",
+    "defaultValue": "同心性狹窄與剩餘面積"
+  },
+  {
+    "key": "animation.7a005748618ec1",
+    "group": "動畫・介面標示",
+    "label": "正常與同心性狹窄的橫切面比較",
+    "defaultValue": "正常與同心性狹窄的橫切面比較"
+  },
+  {
+    "key": "animation.00d361072384f4",
+    "group": "動畫・介面與說明",
+    "label": "直徑狹窄",
+    "defaultValue": "直徑狹窄"
+  },
+  {
+    "key": "animation.ab7565bc0b219f",
+    "group": "動畫・介面與說明",
+    "label": "剩餘截面積",
+    "defaultValue": "剩餘截面積"
+  },
+  {
+    "key": "animation.05f3960bf1b4ca",
+    "group": "動畫・介面與說明",
+    "label": "斑塊環狀增厚，剩餘管腔維持置中。面積比例並不等於血流量比例。",
+    "defaultValue": "斑塊環狀增厚，剩餘管腔維持置中。面積比例並不等於血流量比例。"
+  },
+  {
+    "key": "animation.0d3452ad19a9f2",
+    "group": "動畫・介面與說明",
+    "label": "從薄弱處到局部破裂",
+    "defaultValue": "從薄弱處到局部破裂"
+  },
+  {
+    "key": "animation.5b3a652853973c",
+    "group": "動畫・介面標示",
+    "label": "局部纖維帽變薄與破裂的放大剖面",
+    "defaultValue": "局部纖維帽變薄與破裂的放大剖面"
+  },
+  {
+    "key": "animation.b352d99c22d121",
+    "group": "動畫・介面與說明",
+    "label": "纖維帽厚度放大；虛線為先前厚度",
+    "defaultValue": "纖維帽厚度放大；虛線為先前厚度"
+  },
+  {
+    "key": "animation.39855eeb2ae94c",
+    "group": "動畫・介面與說明",
+    "label": "核心擴大、局部帽變薄",
+    "defaultValue": "核心擴大、局部帽變薄"
+  },
+  {
+    "key": "animation.1c1ebec5ab41b6",
+    "group": "動畫・介面與說明",
+    "label": "發炎與纖維組織分解形成薄弱處",
+    "defaultValue": "發炎與纖維組織分解形成薄弱處"
+  },
+  {
+    "key": "animation.0f97a2f7f9331a",
+    "group": "動畫・介面與說明",
+    "label": "血液接觸核心內的促凝物質",
+    "defaultValue": "血液接觸核心內的促凝物質"
+  },
+  {
+    "key": "animation.821d75e8020661",
+    "group": "動畫・介面與說明",
+    "label": "血栓逐漸增加",
+    "defaultValue": "血栓逐漸增加"
+  },
+  {
+    "key": "animation.86498dfe7f53a6",
+    "group": "動畫・介面與說明",
+    "label": "完全阻塞",
+    "defaultValue": "完全阻塞"
+  },
+  {
+    "key": "animation.7602921bcd6fbe",
+    "group": "動畫・介面與說明",
+    "label": "本段示範其中一種進展",
+    "defaultValue": "本段示範其中一種進展"
+  },
+  {
+    "key": "animation.f5ac975356bc1a",
+    "group": "動畫・介面與說明",
+    "label": "破裂不一定造成完全阻塞。動畫將病理變化濃縮至數秒。",
+    "defaultValue": "破裂不一定造成完全阻塞。動畫將病理變化濃縮至數秒。"
+  },
+  {
+    "key": "animation.fbc6ca4e8d03ee",
+    "group": "動畫・介面與說明",
+    "label": "穿刺路徑與導管接合",
+    "defaultValue": "穿刺路徑與導管接合"
+  },
+  {
+    "key": "animation.d51063d55dad3d",
+    "group": "動畫・介面與說明",
+    "label": "穿刺處",
+    "defaultValue": "穿刺處"
+  },
+  {
+    "key": "animation.6f9404c925f07c",
+    "group": "動畫・介面與說明",
+    "label": "觀察視角",
+    "defaultValue": "觀察視角"
+  },
+  {
+    "key": "animation.656915ca757f5e",
+    "group": "動畫・介面與說明",
+    "label": "自動播放視角（衛教）",
+    "defaultValue": "自動播放視角（衛教）"
+  },
+  {
+    "key": "animation.f34a979c3500c3",
+    "group": "動畫・介面與說明",
+    "label": "全身路徑總覽",
+    "defaultValue": "全身路徑總覽"
+  },
+  {
+    "key": "animation.c8bc26c047b88a",
+    "group": "動畫・介面與說明",
+    "label": "穿刺處與導入鞘",
+    "defaultValue": "穿刺處與導入鞘"
+  },
+  {
+    "key": "animation.f68ce76df1c2ff",
+    "group": "動畫・介面與說明",
+    "label": "跟隨導管尖端",
+    "defaultValue": "跟隨導管尖端"
+  },
+  {
+    "key": "animation.7fbd973df9289c",
+    "group": "動畫・介面與說明",
+    "label": "主動脈弓與分支",
+    "defaultValue": "主動脈弓與分支"
+  },
+  {
+    "key": "animation.d735184aad32b3",
+    "group": "動畫・介面與說明",
+    "label": "主動脈根部與冠脈開口",
+    "defaultValue": "主動脈根部與冠脈開口"
+  },
+  {
+    "key": "animation.4e21f09c6c0cd6",
+    "group": "動畫・介面與說明",
+    "label": "根部剖視・由上往下",
+    "defaultValue": "根部剖視・由上往下"
+  },
+  {
+    "key": "animation.9e9cf82c218f77",
+    "group": "動畫・介面與說明",
+    "label": "冠脈解剖・前面",
+    "defaultValue": "冠脈解剖・前面"
+  },
+  {
+    "key": "animation.f326244e48b1f4",
+    "group": "動畫・介面與說明",
+    "label": "冠脈解剖・左側",
+    "defaultValue": "冠脈解剖・左側"
+  },
+  {
+    "key": "animation.a488d8f815a230",
+    "group": "動畫・介面與說明",
+    "label": "冠脈解剖・後面",
+    "defaultValue": "冠脈解剖・後面"
+  },
+  {
+    "key": "animation.f4f854d98f71ba",
+    "group": "動畫・介面與說明",
+    "label": "JL／JR 自由形狀比較",
+    "defaultValue": "JL／JR 自由形狀比較"
+  },
+  {
+    "key": "animation.30cae5cf859180",
+    "group": "動畫・介面與說明",
+    "label": "看穿刺處",
+    "defaultValue": "看穿刺處"
+  },
+  {
+    "key": "animation.9e56f435b6427a",
+    "group": "動畫・介面與說明",
+    "label": "看主動脈弓",
+    "defaultValue": "看主動脈弓"
+  },
+  {
+    "key": "animation.a1788891ae78b8",
+    "group": "動畫・介面與說明",
+    "label": "看 JL 接合",
+    "defaultValue": "看 JL 接合"
+  },
+  {
+    "key": "animation.e0f71186bd095d",
+    "group": "動畫・介面與說明",
+    "label": "看 JR 接合",
+    "defaultValue": "看 JR 接合"
+  },
+  {
+    "key": "animation.68995fe012e2b1",
+    "group": "動畫・介面與說明",
+    "label": "看冠脈全貌",
+    "defaultValue": "看冠脈全貌"
+  },
+  {
+    "key": "animation.3a54de20949e3f",
+    "group": "動畫・介面與說明",
+    "label": "比較導管形狀",
+    "defaultValue": "比較導管形狀"
+  },
+  {
+    "key": "animation.80fd6936609221",
+    "group": "動畫・介面與說明",
+    "label": "主動脈壁不透明度",
+    "defaultValue": "主動脈壁不透明度"
+  },
+  {
+    "key": "animation.5a9b424b3026c6",
+    "group": "動畫・介面與說明",
+    "label": "同一套解剖模型與座標，鏡頭移動時不改變心臟大小。",
+    "defaultValue": "同一套解剖模型與座標，鏡頭移動時不改變心臟大小。"
+  },
+  {
+    "key": "animation.a2297945e37087",
+    "group": "動畫・介面與說明",
+    "label": "解剖模型",
+    "defaultValue": "解剖模型"
+  },
+  {
+    "key": "animation.a2a1e358f5d438",
+    "group": "動畫・介面與說明",
+    "label": "病灶跨越與支架留置",
+    "defaultValue": "病灶跨越與支架留置"
+  },
+  {
+    "key": "animation.779ba8b7458e99",
+    "group": "動畫・介面與說明",
+    "label": "導絲跨越病灶",
+    "defaultValue": "導絲跨越病灶"
+  },
+  {
+    "key": "animation.cfc71aa6e8857d",
+    "group": "動畫・介面與說明",
+    "label": "預擴張氣球送入",
+    "defaultValue": "預擴張氣球送入"
+  },
+  {
+    "key": "animation.a8315fca683cdf",
+    "group": "動畫・介面與說明",
+    "label": "氣球擴張、洩壓與撤出",
+    "defaultValue": "氣球擴張、洩壓與撤出"
+  },
+  {
+    "key": "animation.584772799154c1",
+    "group": "動畫・介面與說明",
+    "label": "支架送入並展開",
+    "defaultValue": "支架送入並展開"
+  },
+  {
+    "key": "animation.d8bc72b3c08a50",
+    "group": "動畫・介面與說明",
+    "label": "氣球與導絲撤出",
+    "defaultValue": "氣球與導絲撤出"
+  },
+  {
+    "key": "animation.2ad9050c78f2ff",
+    "group": "動畫・介面與說明",
+    "label": "支架留置，恢復通流",
+    "defaultValue": "支架留置，恢復通流"
+  },
+  {
+    "key": "animation.5a30ecd09d88bf",
+    "group": "動畫・介面與說明",
+    "label": "獨立示範狹窄病灶的 PCI；不是前一段血栓自然消失。器械與血球比例經調整。",
+    "defaultValue": "獨立示範狹窄病灶的 PCI；不是前一段血栓自然消失。器械與血球比例經調整。"
+  },
+  {
+    "key": "animation.d6114ae92fb85c",
+    "group": "動畫・介面與說明",
+    "label": "觀察冠狀動脈縱切面與橫切面。",
+    "defaultValue": "觀察冠狀動脈縱切面與橫切面。"
+  },
+  {
+    "key": "animation.090ae15519ca34",
+    "group": "動畫・介面標示",
+    "label": "播放進度（秒）",
+    "defaultValue": "播放進度（秒）"
+  },
+  {
+    "key": "animation.bc224826796960",
+    "group": "動畫・介面標示",
+    "label": "後退五秒",
+    "defaultValue": "後退五秒"
+  },
+  {
+    "key": "animation.1dd4f2f0ff3810",
+    "group": "動畫・介面標示",
+    "label": "前進五秒",
+    "defaultValue": "前進五秒"
+  },
+  {
+    "key": "animation.c114a632b201d8",
+    "group": "動畫・介面標示",
+    "label": "播放速度",
+    "defaultValue": "播放速度"
+  },
+  {
+    "key": "animation.94a596e4fbb6b8",
+    "group": "動畫・介面與說明",
+    "label": "單段循環",
+    "defaultValue": "單段循環"
+  },
+  {
+    "key": "animation.038d17665fc574",
+    "group": "動畫・介面標示",
+    "label": "全螢幕",
+    "defaultValue": "全螢幕"
+  },
+  {
+    "key": "animation.ebe740aae5d56f",
+    "group": "動畫・介面標示",
+    "label": "動畫章節",
+    "defaultValue": "動畫章節"
+  },
+  {
+    "key": "animation.13aaf2ba74cca6",
+    "group": "動畫・介面與說明",
+    "label": "0:00 · 管腔與截面積",
+    "defaultValue": "0:00 · 管腔與截面積"
+  },
+  {
+    "key": "animation.1952ea5a22dfb4",
+    "group": "動畫・介面與說明",
+    "label": "破裂與血栓",
+    "defaultValue": "破裂與血栓"
+  },
+  {
+    "key": "animation.400d5061d47cdd",
+    "group": "動畫・介面與說明",
+    "label": "0:28 · 完全阻塞",
+    "defaultValue": "0:28 · 完全阻塞"
+  },
+  {
+    "key": "animation.dc885359910264",
+    "group": "動畫・介面與說明",
+    "label": "0:52 · 穿刺點至冠脈開口",
+    "defaultValue": "0:52 · 穿刺點至冠脈開口"
+  },
+  {
+    "key": "animation.024a4bf6500887",
+    "group": "動畫・介面與說明",
+    "label": "1:36 · 血流重建",
+    "defaultValue": "1:36 · 血流重建"
+  },
+  {
+    "key": "animation.0a8da8f0f03b9f",
+    "group": "動畫・介面與說明",
+    "label": "第 08 版 · 同心性斑塊 · 完整心臟 → 冠脈聚焦 → 完整心臟",
+    "defaultValue": "第 08 版 · 同心性斑塊 · 完整心臟 → 冠脈聚焦 → 完整心臟"
+  },
+  {
+    "key": "animation.6d2654e6c7c35a",
+    "group": "動畫・介面與說明",
+    "label": "空白鍵 播放 / 暫停　← → 跳轉　1–4 章節",
+    "defaultValue": "空白鍵 播放 / 暫停　← → 跳轉　1–4 章節"
+  },
+  {
+    "key": "animation.ed3c5d5be5d3a7",
+    "group": "動畫・介面與說明",
+    "label": "解剖來源、模型範圍與醫學說明",
+    "defaultValue": "解剖來源、模型範圍與醫學說明"
+  },
+  {
+    "key": "animation.59812d299ede99",
+    "group": "動畫・介面與說明",
+    "label": "解剖與製作",
+    "defaultValue": "解剖與製作"
+  },
+  {
+    "key": "animation.8b4fefb14cb7d0",
+    "group": "動畫・介面與說明",
+    "label": "人體、心臟與冠脈取自 Z-Anatomy 解剖圖譜，源自 BodyParts3D。模型維持共同座標與相對尺度",
+    "defaultValue": "人體、心臟與冠脈取自 Z-Anatomy 解剖圖譜，源自 BodyParts3D。模型維持共同座標與相對尺度。導管運動為教學動畫，未模擬血管壁變形、導絲力學或個別病人變異。"
+  },
+  {
+    "key": "animation.bdae89a77991a2",
+    "group": "動畫・介面與說明",
+    "label": "根部內部結構的資料來源與補作範圍，隨模型檢查結果記錄於交付說明。",
+    "defaultValue": "根部內部結構的資料來源與補作範圍，隨模型檢查結果記錄於交付說明。"
+  },
+  {
+    "key": "animation.4b555dd0a3cb2f",
+    "group": "動畫・介面與說明",
+    "label": "斑塊、血栓與介入器械為獨立的三維教學模型。紅血球僅為流動視覺線索，不能推算 FFR、灌流、壓差或缺血。斑塊與",
+    "defaultValue": "斑塊、血栓與介入器械為獨立的三維教學模型。紅血球僅為流動視覺線索，不能推算 FFR、灌流、壓差或缺血。斑塊與壁層按教學目的剖切；不是組織切片或病人影像。"
+  },
+  {
+    "key": "animation.551356fbbc1e00",
+    "group": "動畫・介面與說明",
+    "label": "授權",
+    "defaultValue": "授權"
+  },
+  {
+    "key": "animation.a7a10a2ed5b82a",
+    "group": "動畫・介面與說明",
+    "label": "“Z-Anatomy — The libre 3D atlas of anatomy — CC BY-SA ",
+    "defaultValue": "“Z-Anatomy — The libre 3D atlas of anatomy — CC BY-SA 4.0”。Gauthier Kervyn 等。原始模型：“BodyParts3D — The Database Center for Life Science — CC BY-SA 2.1 Japan”。修改後解剖資產依 CC BY-SA 4.0 提供，詳見"
+  },
+  {
+    "key": "animation.54b349e10c33ca",
+    "group": "動畫・介面與說明",
+    "label": "素材署名與變更記錄",
+    "defaultValue": "素材署名與變更記錄"
+  },
+  {
+    "key": "animation.8677e2d23a0eb8",
+    "group": "動畫・介面與說明",
+    "label": "。Three.js 為 MIT 授權。",
+    "defaultValue": "。Three.js 為 MIT 授權。"
+  },
+  {
+    "key": "animation.11090f5a0bf67b",
+    "group": "動畫・介面與說明",
+    "label": "Z-Anatomy 模型與原始授權 ↗",
+    "defaultValue": "Z-Anatomy 模型與原始授權 ↗"
+  },
+  {
+    "key": "animation.22c1330506abfc",
+    "group": "動畫・介面與說明",
+    "label": "面積與流程",
+    "defaultValue": "面積與流程"
+  },
+  {
+    "key": "animation.312dcecbab0061",
+    "group": "動畫・介面與說明",
+    "label": "圓形殘餘管腔假設下，A/A₀ = (D/D₀)²。直徑狹窄 70% → 直徑剩餘 30% → 截面積剩餘 9",
+    "defaultValue": "圓形殘餘管腔假設下，A/A₀ = (D/D₀)²。直徑狹窄 70% → 直徑剩餘 30% → 截面積剩餘 9%。不規則病灶不能直接用單一投影直徑推得精確面積。"
+  },
+  {
+    "key": "animation.68eb870f9e2a2a",
+    "group": "動畫・介面與說明",
+    "label": "第二段呈現斑塊破裂後血栓形成至完全阻塞的情境。第四段另以狹窄病灶呈現預擴張與支架置放；預擴張並非所有 PCI",
+    "defaultValue": "第二段呈現斑塊破裂後血栓形成至完全阻塞的情境。第四段另以狹窄病灶呈現預擴張與支架置放；預擴張並非所有 PCI 必要步驟。導管交換以縮時過場表示；未呈現藥物、器械選型、完整安全操作或臨床決策。"
+  },
+  {
+    "key": "animation.5d1ba36d4111b3",
+    "group": "動畫・介面與說明",
+    "label": "導管輪廓參考",
+    "defaultValue": "導管輪廓參考"
+  },
+  {
+    "key": "animation.49d0d6175bd35f",
+    "group": "動畫・介面與說明",
+    "label": "Cordis 官方診斷導管型錄・第 28–29 頁 ↗",
+    "defaultValue": "Cordis 官方診斷導管型錄・第 28–29 頁 ↗"
+  },
+  {
+    "key": "animation.a6ce4fcc26171e",
+    "group": "動畫・介面與說明",
+    "label": "醫學參考",
+    "defaultValue": "醫學參考"
+  },
+  {
+    "key": "animation.87036fd73b635a",
+    "group": "動畫・介面與說明",
+    "label": "纖維帽變薄、發炎與斑塊破裂的機轉 ↗",
+    "defaultValue": "纖維帽變薄、發炎與斑塊破裂的機轉 ↗"
+  },
+  {
+    "key": "animation.2f1e299979aa94",
+    "group": "動畫・介面與說明",
+    "label": "Coronary ostia：解剖與血管攝影研究 ↗",
+    "defaultValue": "Coronary ostia：解剖與血管攝影研究 ↗"
+  },
+  {
+    "key": "animation.920ea8ec9e2fd6",
+    "group": "動畫・介面與說明",
+    "label": "網頁內附所有必要程式與模型，載入後播放不呼叫生成服務。需以瀏覽器透過網站或本機伺服器開啟。無配音。",
+    "defaultValue": "網頁內附所有必要程式與模型，載入後播放不呼叫生成服務。需以瀏覽器透過網站或本機伺服器開啟。無配音。"
+  },
+  {
+    "key": "animation.b3e254386b8a88",
+    "group": "動畫・介面與說明",
+    "label": "此動畫需要啟用 JavaScript。",
+    "defaultValue": "此動畫需要啟用 JavaScript。"
+  },
+  {
+    "key": "animation.4e030d9926ade9",
+    "group": "動畫・介面標示",
+    "label": "· 導絲與導管前進",
+    "defaultValue": "· 導絲與導管前進"
+  },
+  {
+    "key": "section.stress.eyebrow",
+    "group": "壓力檢查",
+    "label": "壓力檢查／上方小標",
+    "defaultValue": "STRESS TEST ／ 心臟壓力檢查"
+  },
+  {
+    "key": "section.stress.title",
+    "group": "壓力檢查",
+    "label": "壓力檢查／主標題",
+    "defaultValue": "壓力下，血流增加夠不夠？"
+  },
+  {
+    "key": "section.stress.intro",
+    "group": "壓力檢查",
+    "label": "壓力檢查／開場說明",
+    "defaultValue": "休息時沒有明顯異常，也可以透過壓力檢查，觀察心臟供血的變化。"
+  },
+  {
+    "key": "section.stress.examGroupLabel",
+    "group": "壓力檢查",
+    "label": "檢查選擇／輔助標籤",
+    "defaultValue": "選擇要了解的檢查"
+  },
+  {
+    "key": "section.stress.exercise.name",
+    "group": "壓力檢查",
+    "label": "運動心電圖／名稱",
+    "defaultValue": "運動心電圖"
+  },
+  {
+    "key": "section.stress.nuclear.name",
+    "group": "壓力檢查",
+    "label": "核醫檢查／名稱",
+    "defaultValue": "核子醫學心肌灌注"
+  },
+  {
+    "key": "section.stress.detection.label",
+    "group": "壓力檢查",
+    "label": "檢出能力／說明標籤",
+    "defaultValue": "檢出能力（敏感度）"
+  },
+  {
+    "key": "section.stress.detection.approx",
+    "group": "壓力檢查",
+    "label": "數字前綴",
+    "defaultValue": "約"
+  },
+  {
+    "key": "section.stress.detection.unit",
+    "group": "壓力檢查",
+    "label": "數字單位",
+    "defaultValue": "成"
+  },
+  {
+    "key": "section.stress.exercise.sensitivity",
+    "group": "壓力檢查",
+    "label": "運動心電圖／概估敏感度",
+    "defaultValue": "6–7"
+  },
+  {
+    "key": "section.stress.nuclear.sensitivity",
+    "group": "壓力檢查",
+    "label": "核醫檢查／概估敏感度",
+    "defaultValue": "8"
+  },
+  {
+    "key": "section.stress.factLabel.how",
+    "group": "壓力檢查",
+    "label": "簡介欄位／怎麼做",
+    "defaultValue": "怎麼做"
+  },
+  {
+    "key": "section.stress.factLabel.features",
+    "group": "壓力檢查",
+    "label": "簡介欄位／特點",
+    "defaultValue": "特點"
+  },
+  {
+    "key": "section.stress.factLabel.limits",
+    "group": "壓力檢查",
+    "label": "簡介欄位／限制",
+    "defaultValue": "限制"
+  },
+  {
+    "key": "section.stress.factLabel.suitable",
+    "group": "壓力檢查",
+    "label": "簡介欄位／適合誰",
+    "defaultValue": "適合誰"
+  },
+  {
+    "key": "section.stress.factLabel.after",
+    "group": "壓力檢查",
+    "label": "簡介欄位／檢查後",
+    "defaultValue": "檢查後"
+  },
+  {
+    "key": "section.stress.exercise.how",
+    "group": "壓力檢查",
+    "label": "運動心電圖／檢查方式",
+    "defaultValue": "在跑步機上快走或慢跑，逐步增加速度與坡度，同時記錄心電圖、心跳、血壓與症狀。"
+  },
+  {
+    "key": "section.stress.exercise.features",
+    "group": "壓力檢查",
+    "label": "運動心電圖／特點",
+    "defaultValue": "非侵入性、無輻射。"
+  },
+  {
+    "key": "section.stress.exercise.limits",
+    "group": "壓力檢查",
+    "label": "運動心電圖／限制",
+    "defaultValue": "運動量不足、心電圖雜訊過多，或原本心電圖不易判讀，都可能影響結果。"
+  },
+  {
+    "key": "section.stress.exercise.suitable",
+    "group": "壓力檢查",
+    "label": "運動心電圖／適合對象",
+    "defaultValue": "經醫師評估需要檢查，症狀穩定、較不典型且心血管風險較低者；須能運動，且心電圖適合判讀。"
+  },
+  {
+    "key": "section.stress.nuclear.how",
+    "group": "壓力檢查",
+    "label": "核醫檢查／檢查方式",
+    "defaultValue": "注射少量放射性示蹤劑，比較休息與壓力下的心肌血流；壓力可由運動或藥物產生。"
+  },
+  {
+    "key": "section.stress.nuclear.features",
+    "group": "壓力檢查",
+    "label": "核醫檢查／特點",
+    "defaultValue": "有輻射曝露；一般成人的輻射風險較低，仍需由醫師評估檢查效益。"
+  },
+  {
+    "key": "section.stress.nuclear.after",
+    "group": "壓力檢查",
+    "label": "核醫檢查／檢查後注意事項",
+    "defaultValue": "檢查後 72 小時內，避免與孕婦、嬰幼兒長時間近距離接觸，例如長時間抱著或同床睡覺。實際依核醫科當日指示。"
+  },
+  {
+    "key": "section.stress.researchNote",
+    "group": "壓力檢查",
+    "label": "敏感度數字／備註",
+    "defaultValue": "數字為研究概估，會因受檢者條件與檢查方式而異；結果仍須搭配症狀與風險判讀。"
+  },
+  {
+    "key": "section.stress.diagram.title",
+    "group": "壓力檢查",
+    "label": "血流示意／標題",
+    "defaultValue": "看見三條分支的血流"
+  },
+  {
+    "key": "section.stress.diagram.exerciseNote",
+    "group": "壓力檢查",
+    "label": "血流示意／運動說明",
+    "defaultValue": "運動時，心肌需要更多氧氣。"
+  },
+  {
+    "key": "section.stress.stateGroupLabel",
+    "group": "壓力檢查",
+    "label": "狀態切換／輔助標籤",
+    "defaultValue": "切換休息與壓力狀態"
+  },
+  {
+    "key": "section.stress.restButton",
+    "group": "壓力檢查",
+    "label": "休息按鈕",
+    "defaultValue": "休息"
+  },
+  {
+    "key": "section.stress.stressButton",
+    "group": "壓力檢查",
+    "label": "壓力按鈕",
+    "defaultValue": "加入壓力"
+  },
+  {
+    "key": "section.stress.motion.pause",
+    "group": "壓力檢查",
+    "label": "動畫／暫停按鈕",
+    "defaultValue": "暫停動畫"
+  },
+  {
+    "key": "section.stress.diagram.ariaTitle",
+    "group": "壓力檢查",
+    "label": "血流示意／輔助標題",
+    "defaultValue": "一條主血管直接分成三條分支，中間分支有狹窄。"
+  },
+  {
+    "key": "section.stress.diagram.ariaDescription",
+    "group": "壓力檢查",
+    "label": "血流示意／輔助說明",
+    "defaultValue": "休息時三個區域仍可能有足夠血流。加入壓力後，正常供血區的小血管擴張、更多紅血球並行通過；狹窄後方仍有血流，但增加的幅度有限。"
+  },
+  {
+    "key": "section.stress.legend.label",
+    "group": "壓力檢查",
+    "label": "圖例／輔助標籤",
+    "defaultValue": "圖例"
+  },
+  {
+    "key": "section.stress.legend.rbc",
+    "group": "壓力檢查",
+    "label": "圖例／紅血球",
+    "defaultValue": "紅血球"
+  },
+  {
+    "key": "section.stress.legend.plaque",
+    "group": "壓力檢查",
+    "label": "圖例／斑塊",
+    "defaultValue": "斑塊"
+  },
+  {
+    "key": "section.stress.legend.dilation",
+    "group": "壓力檢查",
+    "label": "圖例／口徑變化：末端小血管示意",
+    "defaultValue": "口徑變化：末端小血管示意"
+  },
+  {
+    "key": "section.stress.state.rest",
+    "group": "壓力檢查",
+    "label": "狀態／休息",
+    "defaultValue": "休息時"
+  },
+  {
+    "key": "section.stress.result.restTitle",
+    "group": "壓力檢查",
+    "label": "休息／標題",
+    "defaultValue": "休息時足夠，不代表壓力下也足夠。"
+  },
+  {
+    "key": "section.stress.result.exerciseRest",
+    "group": "壓力檢查",
+    "label": "休息／運動說明",
+    "defaultValue": "加入壓力，看看正常分支和狹窄分支的血流，會有什麼不同。"
+  },
+  {
+    "key": "section.stress.footnote",
+    "group": "壓力檢查",
+    "label": "示意圖／備註",
+    "defaultValue": "血流與管徑為原理示意，非個人檢查結果。"
+  },
+  {
+    "key": "section.stress.noscript",
+    "group": "壓力檢查",
+    "label": "無 JavaScript 提示",
+    "defaultValue": "請啟用 JavaScript，以切換休息與壓力狀態。"
+  },
+  {
+    "key": "section.stress.flow.inlet",
+    "group": "壓力檢查",
+    "label": "血流動態／血液流入",
+    "defaultValue": "血液流入"
+  },
+  {
+    "key": "section.stress.branch.normal",
+    "group": "壓力檢查",
+    "label": "血流動態／正常分支",
+    "defaultValue": "正常分支"
+  },
+  {
+    "key": "section.stress.branch.diseasedShort",
+    "group": "壓力檢查",
+    "label": "血流動態／狹窄分支",
+    "defaultValue": "狹窄分支"
+  },
+  {
+    "key": "section.stress.branch.diseased",
+    "group": "壓力檢查",
+    "label": "血流動態／有病灶的分支",
+    "defaultValue": "有病灶的分支"
+  },
+  {
+    "key": "section.stress.flow.limitedShort",
+    "group": "壓力檢查",
+    "label": "血流動態／增加有限",
+    "defaultValue": "增加有限"
+  },
+  {
+    "key": "section.stress.flow.increasedShort",
+    "group": "壓力檢查",
+    "label": "血流動態／血流增加",
+    "defaultValue": "血流增加"
+  },
+  {
+    "key": "section.stress.flow.dilatedShort",
+    "group": "壓力檢查",
+    "label": "血流動態／末端已擴張",
+    "defaultValue": "末端已擴張"
+  },
+  {
+    "key": "section.stress.flow.restShort",
+    "group": "壓力檢查",
+    "label": "血流動態／休息血流",
+    "defaultValue": "休息血流"
+  },
+  {
+    "key": "section.stress.plaque.short",
+    "group": "壓力檢查",
+    "label": "血流動態／狹窄",
+    "defaultValue": "狹窄"
+  },
+  {
+    "key": "section.stress.flow.limited",
+    "group": "壓力檢查",
+    "label": "血流動態／仍有血流，但增加有限",
+    "defaultValue": "仍有血流，但增加有限"
+  },
+  {
+    "key": "section.stress.flow.increased",
+    "group": "壓力檢查",
+    "label": "血流動態／小血管擴張・血流增加",
+    "defaultValue": "小血管擴張・血流增加"
+  },
+  {
+    "key": "section.stress.flow.dilated",
+    "group": "壓力檢查",
+    "label": "血流動態／末端已擴張・仍有血流",
+    "defaultValue": "末端已擴張・仍有血流"
+  },
+  {
+    "key": "section.stress.flow.rest",
+    "group": "壓力檢查",
+    "label": "血流動態／休息狀態的血流",
+    "defaultValue": "休息狀態的血流"
+  },
+  {
+    "key": "section.stress.plaque.label",
+    "group": "壓力檢查",
+    "label": "血流動態／斑塊造成狹窄",
+    "defaultValue": "斑塊造成狹窄"
+  },
+  {
+    "key": "section.stress.motion.play",
+    "group": "壓力檢查",
+    "label": "血流動態／播放動畫",
+    "defaultValue": "播放動畫"
+  },
+  {
+    "key": "section.stress.motion.pauseLabel",
+    "group": "壓力檢查",
+    "label": "血流動態／暫停紅血球流動動畫",
+    "defaultValue": "暫停紅血球流動動畫"
+  },
+  {
+    "key": "section.stress.motion.playLabel",
+    "group": "壓力檢查",
+    "label": "血流動態／播放紅血球流動動畫",
+    "defaultValue": "播放紅血球流動動畫"
+  },
+  {
+    "key": "section.stress.diagram.nuclearNote",
+    "group": "壓力檢查",
+    "label": "血流動態／以下以擴血管藥物示意。",
+    "defaultValue": "以下以擴血管藥物示意。"
+  },
+  {
+    "key": "section.stress.state.stress",
+    "group": "壓力檢查",
+    "label": "血流動態／壓力下",
+    "defaultValue": "壓力下"
+  },
+  {
+    "key": "section.stress.result.nuclearRest",
+    "group": "壓力檢查",
+    "label": "血流動態／藥物讓末端小血管擴張，用來觀察各區域增加血流的能力。",
+    "defaultValue": "藥物讓末端小血管擴張，用來觀察各區域增加血流的能力。"
+  },
+  {
+    "key": "section.stress.result.exerciseStressTitle",
+    "group": "壓力檢查",
+    "label": "血流動態／心臟更忙，狹窄區的供血可能跟不上。",
+    "defaultValue": "心臟更忙，狹窄區的供血可能跟不上。"
+  },
+  {
+    "key": "section.stress.result.exerciseStress",
+    "group": "壓力檢查",
+    "label": "血流動態／正常區血流明顯增加；狹窄區仍有血流，但增加幅度不足以滿足運動時的需要。",
+    "defaultValue": "正常區血流明顯增加；狹窄區仍有血流，但增加幅度不足以滿足運動時的需要。"
+  },
+  {
+    "key": "section.stress.result.nuclearStressTitle",
+    "group": "壓力檢查",
+    "label": "血流動態／正常區增流明顯，狹窄區的增幅有限。",
+    "defaultValue": "正常區增流明顯，狹窄區的增幅有限。"
+  },
+  {
+    "key": "section.stress.result.nuclearStress",
+    "group": "壓力檢查",
+    "label": "血流動態／核醫影像比較休息與壓力下的灌流分布，找出相對血流較少的區域。",
+    "defaultValue": "核醫影像比較休息與壓力下的灌流分布，找出相對血流較少的區域。"
+  },
+  {
+    "key": "site.tabStress",
+    "group": "網站分頁",
+    "label": "分頁名稱／壓力檢查",
+    "defaultValue": "壓力檢查"
+  },
+  {
+    "key": "site.tabAnimation",
+    "group": "網站分頁",
+    "label": "分頁名稱／衛教動畫",
+    "defaultValue": "衛教動畫"
+  },
+  {
+    "key": "site.tabGuide",
+    "group": "網站分頁",
+    "label": "分頁名稱／住院須知",
+    "defaultValue": "住院須知"
+  },
+  {
+    "key": "site.tabsLabel",
+    "group": "網站分頁",
+    "label": "分頁導覽／輔助標籤",
+    "defaultValue": "衛教內容分頁"
+  },
+  {
+    "key": "site.guideTitle",
+    "group": "網站分頁",
+    "label": "住院須知／標題",
+    "defaultValue": "住院前準備與術後照護"
+  },
+  {
+    "key": "site.reviewBadge",
+    "group": "網站分頁",
+    "label": "網站／版本標示",
+    "defaultValue": ""
+  },
+  {
+    "key": "site.collapseAnimation",
+    "group": "網站分頁",
+    "label": "動畫／收合按鈕",
+    "defaultValue": "收合動畫"
+  }
+]

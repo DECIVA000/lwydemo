@@ -1,0 +1,146 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#173338"><meta name="description" data-content-key="site.description" content="心導管檢查與治療互動衛教，從住院準備到術後照護，搭配3D解剖動畫。"><title>心導管・安心指南</title><style id="contentLoadingStyles">
+html.content-pending [data-content-shell]{visibility:hidden}
+.content-loading-state{display:none;position:fixed;inset:0;z-index:40;align-items:center;justify-content:center;gap:12px;padding:24px;background:#f8f7f3;color:#39746d;font:14px/1.8 "Segoe UI","Microsoft JhengHei",sans-serif;text-align:center}
+html.content-pending .content-loading-state{display:flex}
+.content-loading-mark{width:19px;height:19px;flex:none;border:2px solid #d8e3da;border-top-color:#39746d;border-radius:50%;animation:content-loading-spin .9s linear infinite}
+@keyframes content-loading-spin{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.content-loading-mark{animation:none}}
+@media print{html.content-pending [data-content-shell]{display:none!important}html.content-pending .content-loading-state{position:static;display:block}html.content-pending .content-loading-mark{display:none}html.content-pending .content-loading-state:after{content:"內容尚未載入完成，請稍後再列印。";display:block}}
+</style>
+<script>
+(function () {
+  var root = document.documentElement;
+  root.classList.add('content-pending');
+  root.dataset.contentState = 'loading';
+  var timer = setTimeout(function () {
+    if (root.dataset.contentState !== 'loading') return;
+    root.dataset.contentState = 'static-fallback';
+    root.classList.remove('content-pending');
+    document.querySelectorAll('[data-content-shell]').forEach(function (node) { node.removeAttribute('aria-busy'); });
+    var loading = document.getElementById('contentLoading');
+    if (loading) loading.hidden = true;
+    var notice = document.getElementById('contentNotice');
+    if (notice) {
+      notice.textContent = '目前顯示網站內附的備用文字；最新內容暫時無法取得，請稍後重新整理。';
+      notice.hidden = false;
+    }
+  }, 12000);
+  document.addEventListener('portal-content-settled', function () { clearTimeout(timer); }, { once: true });
+}());
+</script>
+<link rel="stylesheet" href="portal.069bf1f507.css"><link rel="stylesheet" href="tabs.8eae3b3e3f.css"><link rel="stylesheet" href="education-navigation.z11.css"><link rel="stylesheet" href="stress-component.8acd77c41a.css"><script type="module" src="portal.bundle.437c9a1730.js"></script></head>
+<body><div id="contentLoading" class="content-loading-state" role="status" aria-live="polite"><span class="content-loading-mark" aria-hidden="true"></span><span>正在載入最新衛教內容…</span></div><a data-content-shell class="skip" href="#stress" data-key="site.skip">跳到衛教內容</a><div id="previewBanner" hidden>內容預覽 · 尚未發布給訪客</div>
+<header data-content-shell class="site-header"><a href="./" class="brand" data-aria-key="site.homeLabel" aria-label="首頁"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 40 40"><path d="M20 32C9 24 5 20 5 14a8 8 0 0 1 15-3 8 8 0 0 1 15 3c0 6-4 10-15 18Z"/><path d="M7 20h7l3-7 5 14 3-7h8"/></svg></span><span><b data-key="site.brand">心導管・安心指南</b><small data-key="site.brandNote">凌旺業醫師 衛教專區</small></span></a><div class="header-aside"><a class="doctor-link" href="#guide/doctor" data-select-topic="doctor" data-key="site.navNotes">醫師叮嚀</a></div></header>
+<div data-content-shell class="tabs-bar"><div class="site-topic-navigation wrap"><nav class="clinic-topic-links clinic-topic-home" aria-label="心臟衛教首頁"><a href="./"><span class="clinic-topic-label">認識心臟<wbr>與檢查</span></a></nav><div id="tabNavigation" class="main-tabs" role="tablist" aria-label="衛教內容分頁" data-aria-key="site.tabsLabel">
+<button type="button" id="tab-stress" role="tab" aria-controls="stress" aria-selected="true" tabindex="0" data-tab="stress"><span class="tab-index" aria-hidden="true">01</span><span data-key="site.tabStress">壓力檢查</span></button>
+<button type="button" id="tab-animation" role="tab" aria-controls="animation" aria-selected="false" tabindex="-1" data-tab="animation"><span class="tab-index" aria-hidden="true">02</span><span data-key="site.tabAnimation">衛教動畫</span></button>
+<button type="button" id="tab-guide" role="tab" aria-controls="guide" aria-selected="false" tabindex="-1" data-tab="guide"><span class="tab-index" aria-hidden="true">03</span><span data-key="site.tabGuide">住院須知</span></button>
+</div><nav class="clinic-topic-links clinic-topic-last" aria-label="其他衛教主題"><a href="dizziness.html">暈的分辨</a></nav></div></div>
+<main data-content-shell id="top">
+<section id="stress" class="tab-panel stress-section" role="tabpanel" aria-labelledby="tab-stress" tabindex="0">
+<div id="stress-education-dashboard" lang="zh-Hant">
+
+  <div class="se-wrap">
+
+    <section class="se-heading" aria-labelledby="sev2-page-title">
+      <p class="se-eyebrow" data-key="section.stress.eyebrow">STRESS TEST ／ 心臟壓力檢查</p>
+      <h1 id="sev2-page-title" data-key="section.stress.title">壓力下，血流增加夠不夠？</h1>
+      <p class="se-intro" data-key="section.stress.intro">休息時沒有明顯異常，也可以透過壓力檢查，觀察心臟供血的變化。</p>
+    </section>
+
+    <div class="se-exams" role="group" data-aria-key="section.stress.examGroupLabel" aria-label="選擇要了解的檢查">
+      <button class="se-exam " id="sev2-exercise-choice" type="button" data-exam="exercise" aria-pressed="true" aria-expanded="true" aria-controls="sev2-exercise-intro">
+        <span class="se-exam-top"><span class="se-exam-number" aria-hidden="true">01</span><span class="se-exam-name" data-key="section.stress.exercise.name">運動心電圖</span><span class="se-selection" aria-hidden="true"></span></span>
+      </button>
+      <button class="se-exam " id="sev2-nuclear-choice" type="button" data-exam="nuclear" aria-pressed="false" aria-expanded="false" aria-controls="sev2-nuclear-intro">
+        <span class="se-exam-top"><span class="se-exam-number" aria-hidden="true">02</span><span class="se-exam-name" data-key="section.stress.nuclear.name">核子醫學心肌灌注</span><span class="se-selection" aria-hidden="true"></span></span>
+      </button>
+    </div>
+
+    <div class="se-exam-details">
+      <section id="sev2-exercise-intro" data-exam-panel="exercise" aria-labelledby="sev2-exercise-choice">
+        <div class="se-details-main">
+          <div class="se-detection">
+            <span class="se-detection-label" data-key="section.stress.detection.label">檢出能力（敏感度）</span>
+            <span class="se-detection-value"><span data-key="section.stress.detection.approx">約</span> <strong data-key="section.stress.exercise.sensitivity">6–7</strong> <span data-key="section.stress.detection.unit">成</span></span>
+          </div>
+          <dl class="se-facts">
+            <div class="se-fact"><dt data-key="section.stress.factLabel.how">怎麼做</dt><dd data-key="section.stress.exercise.how">在跑步機上快走或慢跑，逐步增加速度與坡度，同時記錄心電圖、心跳、血壓與症狀。</dd></div>
+            <div class="se-fact"><dt data-key="section.stress.factLabel.features">特點</dt><dd data-key="section.stress.exercise.features">非侵入性、無輻射。</dd></div>
+            <div class="se-fact"><dt data-key="section.stress.factLabel.limits">限制</dt><dd data-key="section.stress.exercise.limits">運動量不足、心電圖雜訊過多，或原本心電圖不易判讀，都可能影響結果。</dd></div>
+            <div class="se-fact"><dt data-key="section.stress.factLabel.suitable">適合誰</dt><dd data-key="section.stress.exercise.suitable">經醫師評估需要檢查，症狀穩定、較不典型且心血管風險較低者；須能運動，且心電圖適合判讀。</dd></div>
+          </dl>
+        </div>
+      </section>
+      <section id="sev2-nuclear-intro" data-exam-panel="nuclear" aria-labelledby="sev2-nuclear-choice" hidden>
+        <div class="se-details-main">
+          <div class="se-detection">
+            <span class="se-detection-label" data-key="section.stress.detection.label">檢出能力（敏感度）</span>
+            <span class="se-detection-value"><span data-key="section.stress.detection.approx">約</span> <strong data-key="section.stress.nuclear.sensitivity">8</strong> <span data-key="section.stress.detection.unit">成</span></span>
+          </div>
+          <dl class="se-facts">
+            <div class="se-fact"><dt data-key="section.stress.factLabel.how">怎麼做</dt><dd data-key="section.stress.nuclear.how">注射少量放射性示蹤劑，比較休息與壓力下的心肌血流；壓力可由運動或藥物產生。</dd></div>
+            <div class="se-fact"><dt data-key="section.stress.factLabel.features">特點</dt><dd data-key="section.stress.nuclear.features">有輻射曝露；一般成人的輻射風險較低，仍需由醫師評估檢查效益。</dd></div>
+            <div class="se-fact"><dt data-key="section.stress.factLabel.after">檢查後</dt><dd data-key="section.stress.nuclear.after">檢查後 72 小時內，避免與孕婦、嬰幼兒長時間近距離接觸，例如長時間抱著或同床睡覺。實際依核醫科當日指示。</dd></div>
+          </dl>
+        </div>
+      </section>
+      <p class="se-research-note" data-key="section.stress.researchNote">數字為研究概估，會因受檢者條件與檢查方式而異；結果仍須搭配症狀與風險判讀。</p>
+    </div>
+    <p class="se-sr" data-announcement role="status" aria-live="polite" aria-atomic="true"></p>
+
+    <section class="se-panel" aria-labelledby="sev2-diagram-heading">
+      <div class="se-controls">
+        <div>
+          <h2 class="se-diagram-heading" id="sev2-diagram-heading" data-key="section.stress.diagram.title">看見三條分支的血流</h2>
+          <p class="se-diagram-sub" id="sev2-mode-note">運動時，心肌需要更多氧氣。</p>
+        </div>
+        <div class="se-control-actions">
+          <div class="se-state-switch" role="group" data-aria-key="section.stress.stateGroupLabel" aria-label="切換休息與壓力狀態">
+            <button class="" type="button" data-state-button="rest" aria-pressed="true" data-key="section.stress.restButton">休息</button>
+            <button class="" type="button" data-state-button="stress" aria-pressed="false" data-key="section.stress.stressButton">加入壓力</button>
+          </div>
+          <button class="se-motion " type="button" data-motion aria-pressed="false"><span class="se-motion-symbol" aria-hidden="true">Ⅱ</span><span data-motion-label>暫停動畫</span></button>
+        </div>
+      </div>
+
+      <div class="se-diagram-area">
+        <svg class="se-diagram" role="img" aria-labelledby="sev2-vessel-title sev2-vessel-desc" preserveAspectRatio="xMidYMid meet">
+          <title id="sev2-vessel-title" data-key="section.stress.diagram.ariaTitle">一條主血管直接分成三條分支，中間分支有狹窄。</title>
+          <desc id="sev2-vessel-desc" data-key="section.stress.diagram.ariaDescription">休息時三個區域仍可能有足夠血流。加入壓力後，正常供血區的小血管擴張、更多紅血球並行通過；狹窄後方仍有血流，但增加的幅度有限。</desc>
+          <g data-vessel-background></g>
+          <g data-vessel-walls></g>
+          <g data-vessel-lumens></g>
+          <g data-vessel-plaque></g>
+          <g data-blood-cells aria-hidden="true"></g>
+          <g data-vessel-labels></g>
+        </svg>
+      </div>
+
+      <div class="se-legends" data-aria-key="section.stress.legend.label" aria-label="圖例">
+        <span class="se-legend"><span class="se-rbc-key" aria-hidden="true"></span><span data-key="section.stress.legend.rbc">紅血球</span></span>
+        <span class="se-legend"><span class="se-plaque-key" aria-hidden="true"></span><span data-key="section.stress.legend.plaque">斑塊</span></span>
+        <span class="se-legend"><span class="se-dilation-key" aria-hidden="true"></span><span data-key="section.stress.legend.dilation">口徑變化：末端小血管示意</span></span>
+      </div>
+
+      <div class="se-result" data-state="rest">
+        <span class="se-state-label" data-state-label>休息時</span>
+        <div><h2 data-result-title>休息時足夠，不代表壓力下也足夠。</h2><p data-result-copy>加入壓力，看看正常分支和狹窄分支的血流，會有什麼不同。</p></div>
+      </div>
+    </section>
+
+    <footer class="se-foot"><p data-key="section.stress.footnote">血流與管徑為原理示意，非個人檢查結果。</p></footer>
+    <noscript><p data-key="section.stress.noscript">請啟用 JavaScript，以切換休息與壓力狀態。</p></noscript>
+  </div>
+</div>
+
+</section>
+<section id="animation" class="animation-section wrap tab-panel" role="tabpanel" aria-labelledby="tab-animation" tabindex="0" hidden><div class="section-heading"><div><p class="eyebrow">02 <span>／</span> <span data-key="site.animationEyebrow">3D互動動畫</span></p><h2 data-key="site.animationTitle">從血管狹窄，到恢復通流</h2><p data-key="site.animationIntro">看見斑塊、導管與支架的關係；可隨時暫停、旋轉與切換章節。</p></div><span class="duration" data-key="site.animationTime">2 分 40 秒 · 四個章節</span></div><div id="animationPoster" class="animation-poster"><img src="assets/plaque-poster.07a473a646.png" data-alt-key="site.plaquePosterAlt" alt="同心性斑塊的脂質核心與纖維帽3D剖面" width="1200" height="500" loading="lazy"><div class="poster-shade"></div><div class="poster-copy"><span class="small-caps" data-key="site.plaqueVisualEyebrow">認識冠狀動脈</span><p data-key="site.animationPosterText">完整心臟 → 冠脈聚焦 → 導管與支架</p><button class="button gold" data-open-animation="resume"><span aria-hidden="true">▶</span><span data-key="site.animationStart">開啟互動動畫</span></button></div></div><div id="animationMount" hidden><div class="animation-toolbar"><span data-key="site.animationTime">2 分 40 秒 · 四個章節</span><button id="closeAnimation"><span data-key="site.collapseAnimation">收合動畫</span> ×</button></div><iframe id="animationFrame" data-title-key="site.animationFrameTitle" title="心導管3D互動動畫" allow="fullscreen" loading="lazy"></iframe></div><div class="animation-topics"><button data-open-animation="0"><b>01</b><span data-key="site.chapter0">斑塊與狹窄</span><small>0:00</small></button><button data-open-animation="28"><b>02</b><span data-key="site.chapter1">破裂與血栓</span><small>0:28</small></button><button data-open-animation="52"><b>03</b><span data-key="site.chapter2">導管與冠脈</span><small>0:52</small></button><button data-open-animation="96"><b>04</b><span data-key="site.chapter3">氣球與支架</span><small>1:36</small></button></div></section>
+
+<section id="guide" class="guide-section tab-panel" role="tabpanel" aria-labelledby="tab-guide" tabindex="0" hidden><div class="wrap"><div class="section-heading"><div><p class="eyebrow">03 <span>／</span> <span data-key="site.tabGuide">住院須知</span></p><h2 data-key="site.guideTitle">住院前準備與術後照護</h2><p data-key="site.readingIntro">依序閱讀，也可以直接選擇想了解的主題。</p></div><div class="reading-position"><strong id="position">01</strong><span>/ 07</span></div></div><div class="guide-layout"><nav id="topicNav" class="topic-nav" data-aria-key="site.cardCounter" aria-label="衛教主題"></nav><div class="card-area"><article id="educationCard" class="education-card" aria-live="polite"></article><div class="card-controls"><div id="cardDots" class="card-dots"></div><div><button id="previous" class="arrow-button" data-aria-key="site.previous" aria-label="上一張">←</button><button id="next" class="arrow-button" data-aria-key="site.next" aria-label="下一張">→</button></div></div></div></div></div></section>
+
+<section class="closing wrap"><div class="closing-mark" aria-hidden="true">＋</div><div><p data-key="site.doctor">心臟科 凌旺業醫師 關心您的健康</p><span data-key="site.footerNote">實際治療方式依病情、檢查結果及醫病討論決定。</span></div><button id="printButton" class="text-button" data-key="site.print">列印衛教內容</button></section><section id="take-home" class="take-home wrap" aria-labelledby="takeHomeTitle">
+<div class="take-home-copy"><p class="take-home-eyebrow">把衛教帶回家</p><h2 id="takeHomeTitle" data-key="site.takeHomeTitle">掃碼收藏，回家慢慢看。</h2><p class="take-home-description">用手機相機掃描 QR Code，<br>隨時重看衛教內容，也能和家人一起了解。</p><a class="take-home-url" href="https://demo.drlwy.com/">前往衛教網站 <span aria-hidden="true">↗</span></a></div>
+<figure class="take-home-code"><a href="https://demo.drlwy.com/" aria-label="前往衛教網站"><img src="assets/home-qr-drlwy.png" width="592" height="592" alt="衛教網站 QR Code，網址 https://demo.drlwy.com/" loading="eager"></a><figcaption>衛教網站 QR Code</figcaption></figure>
+</section><div id="printContent" class="print-content"></div></main>
+<footer data-content-shell class="site-footer wrap"><span data-key="site.brand">心導管・安心指南</span><div><span id="contentVersion"></span><a href="animation/#references" data-key="site.modelCredits">解剖來源與模型說明</a><a href="admin/" data-key="site.admin">內容管理</a></div></footer><p id="contentNotice" class="content-notice" hidden></p><noscript>請啟用 JavaScript 以使用互動衛教與動畫。</noscript></body></html>

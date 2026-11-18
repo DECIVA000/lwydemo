@@ -1,0 +1,58 @@
+/* Three patient education sections share one site, one content revision. */
+html{scroll-padding-top:82px}
+.wrap{width:min(1060px,calc(100% - 64px))}
+.site-header{width:min(1124px,calc(100% - 64px));height:84px}
+.header-aside{display:flex;align-items:center;gap:22px}
+.doctor-link{font-size:12px;color:#5b7a70;padding:10px 0}
+.doctor-link:hover{color:#173338}
+.tabs-bar{position:sticky;top:0;z-index:15;background:#f8f7f3f5;border-bottom:1px solid #dce2d8;backdrop-filter:blur(12px)}
+.main-tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;scroll-margin-top:0}
+.main-tabs button{position:relative;display:flex;align-items:center;justify-content:center;gap:10px;min-height:63px;padding:12px 8px;border:0;background:transparent;color:#73847c;font-size:14px;font-weight:500;line-height:1.5;overflow-wrap:anywhere}
+.main-tabs button:after{content:"";position:absolute;left:14%;right:14%;bottom:-1px;height:3px;border-radius:3px 3px 0 0;background:transparent}
+.main-tabs button[aria-selected=true]{color:#224f46;font-weight:600}
+.main-tabs button[aria-selected=true]:after{background:#39746d}
+.main-tabs button:hover{background:#edf1e8}
+.tab-index{font:15px/1 Georgia,serif;color:#a0ad9d}
+.main-tabs button[aria-selected=true] .tab-index{color:#77977e}
+.tab-panel:focus-visible{outline:2px solid #97ae9b;outline-offset:-2px}
+.guide-section{padding-top:33px;padding-bottom:40px;border-top:0}
+.animation-section{padding-top:33px;padding-bottom:40px}
+.section-heading{margin-bottom:26px}
+.section-heading h2{font-size:29px}
+.section-heading .eyebrow{margin-bottom:10px}
+.guide-layout{grid-template-columns:235px minmax(0,1fr);gap:28px}
+.education-card{padding:30px 34px}
+.closing{margin-top:8px;padding-block:28px}
+.take-home{margin-top:28px;padding:30px 40px;grid-template-columns:minmax(0,1fr) 200px}
+.take-home-code{width:200px}
+.take-home-code img{width:172px;height:172px}
+@media(max-width:700px){
+  html{scroll-padding-top:66px}
+  .wrap{width:calc(100% - 36px)}
+  .site-header{height:75px;width:calc(100% - 36px)}
+  .header-aside{gap:0}
+  .doctor-link{display:none}
+  .main-tabs{gap:0}
+  .main-tabs button{font-size:13px;min-height:55px;padding:12px 5px;gap:6px}
+  .tab-index{font-size:12px}
+  .main-tabs button:after{left:9%;right:9%}
+  .guide-section,.animation-section{padding-top:26px;padding-bottom:30px}
+  .guide-layout{display:block}
+  .section-heading h2{font-size:25px}
+  .education-card{padding:25px 23px}
+  .closing{padding-block:24px}
+  .take-home{grid-template-columns:1fr;gap:23px;padding:27px 20px}
+}
+@media(max-width:380px){
+  .wrap,.site-header{width:calc(100% - 28px)}
+  .brand b{font-size:14px;letter-spacing:.5px}
+  .brand small{letter-spacing:.3px}
+  .brand-mark{width:27px}
+  .brand{gap:7px}
+  .main-tabs button{font-size:13px;gap:5px}
+  .tab-index{display:none}
+  .section-heading h2{font-size:23px}
+  .education-card{padding:23px 19px}
+  .topic-nav{margin-inline:-14px;padding-inline:14px}
+}
+@media print{.tabs-bar,.stress-section,.header-aside{display:none!important}.take-home{grid-template-columns:minmax(0,1fr) 180px;padding:20px}.take-home-code{width:180px}.take-home-code img{width:162px;height:162px}}
